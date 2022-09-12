@@ -21,3 +21,9 @@ Copy the agent configuration and modify the worker_sweep.sh file, then:
 
 > sbatch worker_sweep.sh
 
+
+### Test
+
+Use the test notebook for testing the models, there are several metrics that shows the performance of the test set.
+
+>> Test.ipynb
