@@ -1,0 +1,18 @@
+experiment_prefix: 'Honey_skresnext50d_32x4d_softDA'
+## MODEL
+model_name: 'skresnext50d_32x4d' #densenet121 #'tf_efficientnet_b7' skresnext50d_32x4d
+num_classes: 12
+## Dataset
+batch_size: 4
+num_workers: 8
+## Loss
+loss_sr: 'Focal'
+## OPTIMIZER
+# scheduler: "Cossine"
+lr: 0.0001
+## TRAINING DETAILS
+gpus: 1
+max_epochs: 50
+log: True
+use_callback: True
+# unfreeze_epoch: 0

@@ -1,0 +1,17 @@
+program: train_honey_sweep.py
+project: HoneySweep
+method: bayes
+metric:
+  name: avg_val_f1w
+  goal: maximize
+parameters:
+  batch_size:
+    values: [2,4,8,16]
+  lr: 
+    distribution: log_uniform
+    min: -4
+    max: -3
+early_terminate:
+  type: hyperband
+  min_iter: 3
+    
