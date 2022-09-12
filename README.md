@@ -5,7 +5,19 @@ The honey test dataset is composed of 12 classes of different microspcope images
 
 ### Training
 
-For training the models, use the workers scripts:
+For training the models, use the worker scripts:
 
-> sbatch worker_train.sha
+> sbatch worker_train.sh
+
+### Hyper-parameter Sweep using Wandb
+
+Modify the config_honey_sweep.yml file for declaring the hyperparameters to be swept.
+
+Then launch the agent: 
+
+> wandb sweep config_honey_sweep.yml
+
+Copy the agent configuration and modify the worker_sweep.sh file, then:
+
+> sbatch worker_sweep.sh
 
