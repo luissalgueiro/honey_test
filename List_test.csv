@@ -1,0 +1,898 @@
+,name,labels
+0,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_2906211211_0_8.640_-5.385_5.259.jpeg,Erica.m
+1,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-0-Sample_71_Lavanda_Espliego_2810211135_0_8.919_2.235_5.488.jpeg,Lavandula
+2,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-0-Sample_21_Rapseed_0.654_-4.325_0.720.jpeg,Brassica
+3,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_2906211302_0_46.164_5.151_5.308.jpeg,Erica.m
+4,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Rosmarinus officinalis/Rosmarinus officinalis-0-Sample_19_Rosmarinus_54.386_-1.844_0.853.jpeg,Rosmarinus officinalis
+5,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-0-Sample_72_Arbutus_Erica_2810211617_0_38.976_5.050_5.513.jpeg,Erica.m
+6,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-1-Sample_15_giras (600).jpeg,Helianthus annuus
+7,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_64_Erica.t_Calluna_0109211617_0_-0.164_-2.086_5.204.jpeg,Erica.m
+8,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Citrus sp/Citrus sp-0-Sample_60_Ceratonia_Cyrpus_1207211619_0_49.894_4.701_5.306.jpeg,Citrus sp
+9,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-1-Sample_72_Arbutus_Erica_2810211616_0_29.873_4.816_5.499.jpeg,Erica.m
+10,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-18-Sample_66_Echium_Lotus_Castanea_Euc_2109211236_0_-0.645_3.313_5.147.jpeg,Eucalyptus sp.
+11,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Citrus sp/Citrus sp-1-Sample_67_Citrus_0410210955_0_5.185_-4.433_5.268.jpeg,Citrus sp
+12,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-1-Sample_15_giras (656).jpeg,Helianthus annuus
+13,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_0607211047_0_24.080_3.466_5.252.jpeg,Erica.m
+14,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-1-Sample_56_BrassicaHoney_Salix_Quercus_1606211636_0_21.695_0.950_0.724.jpeg,Brassica
+15,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Rosmarinus officinalis/Rosmarinus officinalis-0-Sample_19_Rosmarinus_54.983_-0.519_0.883.jpeg,Rosmarinus officinalis
+16,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-0-Sample_71_Lavanda_Espliego_2610211145_0_19.137_11.852_5.406.jpeg,Lavandula
+17,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-2-Sample_66_Echium_Lotus_Castanea_Euc_2109211645_0_23.187_-4.176_5.198.jpeg,Eucalyptus sp.
+18,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-0-Sample_65_Castanea_1609211621_0_27.960_-0.866_5.161.jpeg,Eucalyptus sp.
+19,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_2906211259_0_10.774_4.920_5.270.jpeg,Erica.m
+20,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Citrus sp/Citrus sp-1-Sample_67_Citrus_0410211614_0_13.424_-5.136_-0.029.jpeg,Citrus sp
+21,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-0-Sample_61_Olea_Brassica_Salix_0_27.649123_3.176471_3.838500.jpeg,Cistus sp
+22,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-1-Sample_47_Tilia_0206211352_0_33.703_-1.753_0.799.jpeg,Tilia
+23,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-2-Sample_72_Arbutus_Erica_0911211119_0_35.444_10.502_5.471.jpeg,Erica.m
+24,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-1-Sample_74_Ceratonia_2611211245_0_37.941_2.466_-0.025.jpeg,Erica.m
+25,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-0-Sample_66_Echium_Lotus_Castanea_Euc_2109211104_0_29.048_1.517_5.231.jpeg,Eucalyptus sp.
+26,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-3-Sample_66_Echium_Lotus_Castanea_Euc_2109211058_0_-1.602_1.082_5.225.jpeg,Eucalyptus sp.
+27,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-1-Sample_71_Lavanda_Espliego_2610211449_0_22.926_5.214_5.409.jpeg,Lavandula
+28,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_17_sunflower_GIRASOL.bmp,Helianthus annuus
+29,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-2-Sample_15_giras (538).jpeg,Helianthus annuus
+30,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_2906211250_0_9.189_3.035_5.273.jpeg,Erica.m
+31,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-0-Sample_71_Lavanda_Espliego_2810211127_0_2.083_0.785_5.493.jpeg,Lavandula
+32,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-0-Sample_70_Cantueso_2010211622_0_31.781_10.837_5.666.jpeg,Lavandula
+33,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-0-Sample_72_Arbutus_Erica_0511211116_0_50.647_-0.785_5.591.jpeg,Erica.m
+34,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-1-Sample_64_Erica.t_Calluna_0709210846_0_51.152_2.983_5.287.jpeg,Erica.m
+35,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-1-Sample_79_UC_2712211150_0_12.143_-1.067_-0.005.jpeg,Cistus sp
+36,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-6-Sample_72_Arbutus_Erica_0311211529_0_30.817_-3.492_5.460.jpeg,Erica.m
+37,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-1-Sample_47_Tilia_0206211351_0_34.788_-1.388_0.803.jpeg,Tilia
+38,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-0-Sample_56_BrassicaHoney_Salix_Quercus_1606211538_0_1.714_4.484_0.649.jpeg,Brassica
+39,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_0607210929_0_37.216_-2.302_5.213.jpeg,Erica.m
+40,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-0-Sample_72_Arbutus_Erica_2710211139_0_32.282_9.167_5.542.jpeg,Erica.m
+41,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-5-Sample_61_Olea_Brassica_Salix_2007211516_0_17.397_3.183_5.104.jpeg,Brassica
+42,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Rosmarinus officinalis/Rosmarinus officinalis-0-Sample_19_Rosmarinus_36.181_6.187_0.792.jpeg,Rosmarinus officinalis
+43,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-0-Sample_71_Lavanda_Espliego_2610211100_0_17.304_-2.432_5.364.jpeg,Lavandula
+44,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Rosmarinus officinalis/Rosmarinus officinalis-0-Sample_19_Rosmarinus_28.789_2.337_0.790.jpeg,Rosmarinus officinalis
+45,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-1-Sample_62_Thymus_0_23.964912_0.000000_4.994017.jpeg,Cistus sp
+46,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-1-Sample_21_Rapseed_14.989_11.119_0.758.jpeg,Brassica
+47,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-1-Sample_56_BrassicaHoney_Salix_Quercus_1606211556_0_51.315_-0.700_0.874.jpeg,Brassica
+48,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-3-Sample_61_Olea_Brassica_Salix_2007211349_0_51.478_2.350_5.485.jpeg,Brassica
+49,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-1-Sample_47_Tilia_0706211405_0_11.771_4.494_0.775.jpeg,Tilia
+50,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-1-Sample_64_Erica.t_Calluna_0109211213_0_48.287_3.644_5.367.jpeg,Erica.m
+51,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Taraxacum/Taraxacum-0-Sample_67_Citrus_0410211257_0_48.154_-3.035_5.556.jpeg,Taraxacum
+52,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-1-Sample_72_Arbutus_Erica_1011211332_0_46.293_0.636_5.512.jpeg,Cistus sp
+53,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-0-Sample_72_Arbutus_Erica_0911211301_0_9.287_-2.852_5.483.jpeg,Erica.m
+54,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-0-Sample_73_Malus_0311211120_0_41.726_8.022_5.503.jpeg,Cistus sp
+55,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-1-Sample_58_Vaccinium_myrtillus_0607211013_0_46.884_0.115_5.306.jpeg,Erica.m
+56,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-2-Sample_21_Rapseed_0_31.315789_0.000000_0.743456.jpeg,Brassica
+57,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-3-Sample_21_Rapseed_22.047_10.475_0.767.jpeg,Brassica
+58,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-0-Sample_70_Cantueso_2010211008_0_33.491_2.718_5.670.jpeg,Lavandula
+59,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-1-Sample_3_Capture_251.bmp,Eucalyptus sp.
+60,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-3-Sample_66_Echium_Lotus_Castanea_Euc_2109210929_0_37.757_-1.599_5.237.jpeg,Eucalyptus sp.
+61,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-0-Sample_61_Olea_Brassica_Salix_0_23.350877_1.411765_4.760293.jpeg,Cistus sp
+62,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-2-Sample_49_Tilia_Flor_3105211737_5.647059_1.058824_4.662720.jpeg,Tilia
+63,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-3-Sample_49_Tilia_Flor_3105211737_21.529412_6.705882_4.722719.jpeg,Tilia
+64,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-1-Sample_47_Tilia_0706211400_0_40.628_4.744_0.993.jpeg,Tilia
+65,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-1-Sample_23_Euc_Ech_Coro_20.662_0.850_0.789.jpeg,Eucalyptus sp.
+66,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-3-Sample_58_Vaccinium_myrtillus_2906211236_0_55.717_0.569_5.300.jpeg,Erica.m
+67,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-0-Sample_21_Rapseed_1105211748_1.058824_2.470588_0.857405.jpeg,Brassica
+68,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-2-Sample_61_Olea_Brassica_Salix_0_28.877193_1.058824_4.767178.jpeg,Cistus sp
+69,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Pinus/Pinus-0-Sample_77_Pinus_Poaceae_2112211315_0_30.575_4.485_5.504.jpeg,Pinus
+70,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-0-Sample_21_Rapseed_0_27.017544_0.705882_0.752960.jpeg,Brassica
+71,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_43_Calluna_1405211259_0_35.914_0.728_0.869.jpeg,Erica.m
+72,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_0607211118_0_31.747_6.501_5.254.jpeg,Erica.m
+73,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_35_Heliantus_test_df8_0_39.929825_1.058824_4.600324.jpeg,Helianthus annuus
+74,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Rosmarinus officinalis/Rosmarinus officinalis-0-Sample_19_Rosmarinus_54.039_4.625_0.865.jpeg,Rosmarinus officinalis
+75,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-1-Sample_67_Citrus_0410211029_0_30.265_2.116_5.452.jpeg,Cistus sp
+76,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Citrus sp/Citrus sp-0-Sample_67_Citrus_0410211720_0_18.343_4.950_-0.015.jpeg,Citrus sp
+77,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Rosmarinus officinalis/Rosmarinus officinalis-0-Sample_19_Rosmarinus_0803211008_0_58.100_4.362_0.866.jpeg,Rosmarinus officinalis
+78,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-5-Sample_72_Arbutus_Erica_0311211011_0_43.241_8.286_5.513.jpeg,Erica.m
+79,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-1-Sample_23_Euc_Ech_Coro_16.311_0.469_0.794.jpeg,Eucalyptus sp.
+80,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-1-Sample_61_Olea_Brassica_Salix_0_32.561404_0.000000_4.953108.jpeg,Eucalyptus sp.
+81,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_47_Tilia_0_20.280702_0.352941_4.629274.jpeg,Helianthus annuus
+82,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-3-Sample_19_Rosmarinus_50.601_8.537_0.805.jpeg,Cistus sp
+83,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Taraxacum/Taraxacum-1-Sample_64_Erica.t_Calluna_0709210826_0_24.264_-3.284_5.194.jpeg,Taraxacum
+84,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-2-Sample_21_Rapseed_22.915_10.575_0.776.jpeg,Brassica
+85,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-0-Sample_72_Arbutus_Erica_2810211612_0_1.434_4.318_5.495.jpeg,Erica.m
+86,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-0-Sample_71_Lavanda_Espliego_2411211045_0_6.852_3.860_5.473.jpeg,Lavandula
+87,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-1-Sample_21_Rapseed_28.535_0.437_0.715.jpeg,Brassica
+88,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-4-Sample_65_Castanea_1309211603_0_49.375_2.462_5.302.jpeg,Eucalyptus sp.
+89,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-1-Sample_56_BrassicaHoney_Salix_Quercus_1606211636_0_21.297_0.950_0.722.jpeg,Brassica
+90,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-0-Sample_71_Lavanda_Espliego_2110211200_0_21.384_11.023_5.503.jpeg,Lavandula
+91,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-0-Sample_71_Lavanda_Espliego_1810211208_0_29.368_5.255_5.532.jpeg,Lavandula
+92,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Citrus sp/Citrus sp-0-Citrus_no_fucsin_48.953_-1.331_0.830.jpeg,Citrus sp
+93,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-1-Sample_58_Vaccinium_myrtillus_0607211223_0_23.562_12.852_5.240.jpeg,Erica.m
+94,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Citrus sp/Citrus sp-0-Sample_67_Citrus_2909211454_0_7.284_2.466_5.517.jpeg,Citrus sp
+95,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_15_giras (375).jpeg,Helianthus annuus
+96,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-0-Sample_21_Rapseed_35.269_-2.263_0.764.jpeg,Brassica
+97,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_47_Tilia_0_12.210526_0.705882_4.628630.jpeg,Helianthus annuus
+98,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-2-Sample_47_Tilia_0706211346_0_7.719_2.309_0.738.jpeg,Tilia
+99,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-3-Sample_3_Capture_107_2.bmp,Eucalyptus sp.
+100,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_64_Erica.t_Calluna_0209211039_0_36.857_10.513_5.297.jpeg,Erica.m
+101,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Pinus/Pinus-3-Sample_77_Pinus_Poaceae_2112211257_0_25.991_2.826_5.456.jpeg,Pinus
+102,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Taraxacum/Taraxacum-0-Sample_46_Taraxacum_3003211226_7.058824_4.588235_0.809048.jpeg,Taraxacum
+103,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-3-Sample_21_Rapseed_9.970_-0.919_0.650.jpeg,Brassica
+104,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Rosmarinus officinalis/Rosmarinus officinalis-0-Sample_19_Rosmarinus_47.314_3.456_0.797.jpeg,Rosmarinus officinalis
+105,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-2-Sample_71_Lavanda_Espliego_1810211307_0_18.913_-1.502_5.471.jpeg,Lavandula
+106,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Citrus sp/Citrus sp-0-Sample_67_Citrus_2909211240_0_42.242_5.835_5.558.jpeg,Citrus sp
+107,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_0607211331_0_3.209_7.419_5.252.jpeg,Erica.m
+108,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Citrus sp/Citrus sp-0-Sample_67_Citrus_2809211626_0_26.846_7.352_5.519.jpeg,Citrus sp
+109,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-1-Sample_58_Vaccinium_myrtillus_2906211236_0_55.717_0.569_5.303.jpeg,Erica.m
+110,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-4-Sample_66_Echium_Lotus_Castanea_Euc_2109211641_0_-1.469_-4.727_5.158.jpeg,Eucalyptus sp.
+111,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-1-Sample_47_Tilia_0706211343_0_21.822_2.659_0.787.jpeg,Tilia
+112,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-7-Sample_66_Echium_Lotus_Castanea_Euc_2109211348_0_32.955_-4.143_5.261.jpeg,Eucalyptus sp.
+113,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-1-Sample_21_Rapseed_Brassica_70.jpeg,Brassica
+114,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-4-Sample_79_UC_0202221531_0_1.881_6.567_5.248.jpeg,Cistus sp
+115,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-3-Sample_44_Cardus_0_34.271165_0.450413_3.892933.jpeg,Helianthus annuus
+116,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-0-Sample_56_BrassicaHoney_Salix_Quercus_1606211359_0_5.715_9.737_0.659.jpeg,Brassica
+117,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_22_imported_Ana_050320211215_Capture_660.jpg,Helianthus annuus
+118,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Pinus/Pinus-1-Sample_77_Pinus_Poaceae_2112211302_0_2.825_3.068_5.445.jpeg,Pinus
+119,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-0-Sample_70_Cantueso_2010211622_0_35.831_11.052_5.671.jpeg,Lavandula
+120,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-3-Sample_72_Arbutus_Erica_0311210952_0_37.542_2.585_5.502.jpeg,Erica.m
+121,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-2-Sample_71_Lavanda_Espliego_2110210900_0_12.753_0.599_5.411.jpeg,Lavandula
+122,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_2906211517_0_22.212_-5.768_5.167.jpeg,Erica.m
+123,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Rosmarinus officinalis/Rosmarinus officinalis-0-Sample_19_Rosmarinus_49.919_0.881_0.805.jpeg,Rosmarinus officinalis
+124,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Citrus sp/Citrus sp-0-Sample_67_Citrus_2809211721_0_6.143_13.719_5.502.jpeg,Citrus sp
+125,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-0-Sample_21_Rapseed_30.268_0.600_0.701.jpeg,Brassica
+126,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-1-Sample_72_Arbutus_Erica_0911211052_0_16.340_10.669_5.454.jpeg,Erica.m
+127,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Rosmarinus officinalis/Rosmarinus officinalis-0-Sample_19_Rosmarinus_50.601_8.537_0.795.jpeg,Rosmarinus officinalis
+128,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-2-Sample_61_Olea_Brassica_Salix_0_41.771930_0.000000_4.703667.jpeg,Eucalyptus sp.
+129,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_44_Cardus_0_34.271165_0.450413_3.896933.jpeg,Helianthus annuus
+130,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-0-Sample_49_Tilia_Flor_3105211737_21.882353_4.235294_4.722197.jpeg,Tilia
+131,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-1-Sample_21_Rapseed_22.047_10.475_0.760.jpeg,Brassica
+132,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-0-Sample_72_Arbutus_Erica_0311211015_0_14.769_8.788_5.475.jpeg,Erica.m
+133,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-1-Sample_21_Rapseed_Brassica_111.jpeg,Brassica
+134,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Taraxacum/Taraxacum-1-Sample_17_sunflower_0709211253_0_30.781_-4.284_5.193.jpeg,Taraxacum
+135,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cardus/Cardus-0-Sample_64_Erica.t_Calluna_0_16.771930_0.352941_4.729498.jpeg,Cardus
+136,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-0-Sample_3_Capture_456.bmp,Eucalyptus sp.
+137,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_2906211616_0_8.358_-1.919_5.161.jpeg,Erica.m
+138,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-0-Sample_61_Olea_Brassica_Salix_0_36.245614_1.058824_4.740566.jpeg,Cistus sp
+139,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-3-Sample_59_Rhus_1307211610_0_3.335_2.268_5.228.jpeg,Cistus sp
+140,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Citrus sp/Citrus sp-0-Citrus_no_fucsin_18.471_-0.131_0.807.jpeg,Citrus sp
+141,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-2-Sample_21_Rapseed_32.454_-4.838_0.767.jpeg,Brassica
+142,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-0-Sample_71_Lavanda_Espliego_2110211516_0_22.192_0.919_5.484.jpeg,Lavandula
+143,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-1-Sample_72_Arbutus_Erica_1711211034_0_19.230_-0.160_5.444.jpeg,Cistus sp
+144,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-1-Sample_3_Capture_280_2.bmp,Eucalyptus sp.
+145,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_2106211247_0_6.459_-3.544_0.809.jpeg,Erica.m
+146,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_35_Heliantus_test_df8_0_12.298246_0.000000_4.590234.jpeg,Helianthus annuus
+147,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-0-Sample_21_Rapseed_41.895_1.631_0.730.jpeg,Brassica
+148,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-1-Sample_72_Arbutus_Erica_0911211119_0_33.877_10.420_5.471.jpeg,Erica.m
+149,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-3-Sample_71_Lavanda_Espliego_1810211312_0_29.614_-1.052_5.494.jpeg,Lavandula
+150,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-0-Sample_49_Tilia_Flor_3105211737_5.647059_2.823529_4.663444.jpeg,Tilia
+151,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_0607210947_0_12.227_-1.101_5.225.jpeg,Erica.m
+152,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Citrus sp/Citrus sp-0-Sample_67_Citrus_2909211328_0_46.944_3.150_5.571.jpeg,Citrus sp
+153,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_2906211649_0_15.445_-1.101_5.158.jpeg,Erica.m
+154,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_2106211337_0_36.901_2.309_0.840.jpeg,Erica.m
+155,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-0-Sample_71_Lavanda_Espliego_2810211115_0_33.857_0.632_5.513.jpeg,Lavandula
+156,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_2906211304_0_36.829_5.734_5.274.jpeg,Erica.m
+157,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-0-Sample_23_Euc_Ech_Coro_23.940_-0.706_0.795.jpeg,Eucalyptus sp.
+158,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-0-Sample_71_Lavanda_Espliego_2110211240_0_49.772_11.822_5.523.jpeg,Lavandula
+159,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_19_2402211242_0.701754_0.714286_4.386933.jpeg,Helianthus annuus
+160,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Rosmarinus officinalis/Rosmarinus officinalis-0-Sample_19_Rosmarinus_0803211015_0_44.709_4.862_0.758.jpeg,Rosmarinus officinalis
+161,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-0-Sample_61_Olea_Brassica_Salix_2007211336_0_9.553_1.450_5.137.jpeg,Brassica
+162,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-1-Sample_74_Ceratonia_0312211027_0_17.625_-0.658_5.513.jpeg,Erica.m
+163,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Rosmarinus officinalis/Rosmarinus officinalis-0-Sample_19_Rosmarinus_46.522_7.306_0.787.jpeg,Rosmarinus officinalis
+164,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-0-Sample_61_Olea_Brassica_Salix_0_17.210526_4.588235_3.834050.jpeg,Cistus sp
+165,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-3-Sample_72_Arbutus_Erica_0911211048_0_1.753_10.454_5.465.jpeg,Erica.m
+166,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-4-Sample_21_Rapseed_44.718_-4.656_0.785.jpeg,Brassica
+167,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Citrus sp/Citrus sp-0-Sample_67_Citrus_0410211631_0_18.142_-2.503_-0.024.jpeg,Citrus sp
+168,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-2-Sample_58_Vaccinium_myrtillus_0607211223_0_23.562_12.852_5.237.jpeg,Erica.m
+169,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-1-Sample_23_Euc_Ech_Coro_28.130_1.444_0.799.jpeg,Eucalyptus sp.
+170,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Rosmarinus officinalis/Rosmarinus officinalis-1-Sample_19_Rosmarinus_34.632_-0.300_0.745.jpeg,Rosmarinus officinalis
+171,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-1-Sample_74_Ceratonia_0312211007_0_33.864_2.350_5.519.jpeg,Erica.m
+172,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-1-Sample_17_sunflower_0809211313_0_52.087_6.378_5.288.jpeg,Helianthus annuus
+173,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Rosmarinus officinalis/Rosmarinus officinalis-0-Sample_19_Rosmarinus_0803211105_0_37.219_9.969_0.706.jpeg,Rosmarinus officinalis
+174,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-1-Sample_19_Rosmarinus_37.989_12.569_0.800.jpeg,Cistus sp
+175,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-1-Sample_66_Echium_Lotus_Castanea_Euc_2109211541_0_9.701_0.041_5.133.jpeg,Eucalyptus sp.
+176,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-1-Sample_22_imported_Ana_090320210921_Capture_25.jpg,Helianthus annuus
+177,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-2-Sample_21_Rapseed_25.921_-2.275_0.756.jpeg,Brassica
+178,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-0-Sample_21_Rapseed_25.106_-0.244_0.780.jpeg,Brassica
+179,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Citrus sp/Citrus sp-0-Citrus_no_fucsin_26.500_-1.019_0.818.jpeg,Citrus sp
+180,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Citrus sp/Citrus sp-0-Sample_67_Citrus_0410210937_0_14.204_-2.916_5.445.jpeg,Citrus sp
+181,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-2-Sample_71_Lavanda_Espliego_1810211318_0_39.217_0.565_5.539.jpeg,Lavandula
+182,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-0-Sample_47_Tilia_0206211400_0_8.131_-1.938_0.704.jpeg,Tilia
+183,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-1-Sample_21_Rapseed_43.431_-6.000_0.763.jpeg,Brassica
+184,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-0-Sample_56_BrassicaHoney_Salix_Quercus_1606211318_0_24.839_4.397_0.764.jpeg,Brassica
+185,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_15_giras (395).jpeg,Helianthus annuus
+186,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-11-Sample_63_Rosmarinus_Prunus_0_9.228070_0.000000_5.125000.jpeg,Brassica
+187,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-0-Sample_47_Tilia_0706211222_0_30.058_5.100_0.831.jpeg,Tilia
+188,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-2-Sample_73_Malus_0311211127_0_14.570_5.589_5.476.jpeg,Cistus sp
+189,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-0-Sample_49_Tilia_Flor_3105211737_5.294118_2.823529_4.668111.jpeg,Tilia
+190,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_2906211610_0_34.932_-3.001_5.257.jpeg,Erica.m
+191,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-1-Sample_65_Castanea_0906211541_3.882353_3.529412_4.724496.jpeg,Eucalyptus sp.
+192,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-3-Sample_21_Rapseed_34.373_-5.256_0.747.jpeg,Brassica
+193,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-0-Sample_72_Arbutus_Erica_0911211305_0_48.996_-4.184_5.559.jpeg,Erica.m
+194,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_2906211630_0_38.349_-1.766_5.255.jpeg,Erica.m
+195,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-0-Sample_72_Arbutus_Erica_0511211405_0_41.391_-1.670_5.511.jpeg,Cistus sp
+196,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-1-Sample_49_Tilia_Flor_3105211737_23.294118_2.823529_4.728746.jpeg,Tilia
+197,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-1-Sample_71_Lavanda_Espliego_2810211115_0_33.241_0.632_5.511.jpeg,Lavandula
+198,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-0-Sample_21_Rapseed_17.416_-3.456_0.733.jpeg,Brassica
+199,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Pinus/Pinus-0-Sample_77_Pinus_Poaceae_2112211249_0_52.595_0.625_5.594.jpeg,Pinus
+200,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-0-Sample_3_Capture_209.bmp,Eucalyptus sp.
+201,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_2906211615_0_-1.744_-1.919_5.048.jpeg,Erica.m
+202,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-0-Sample_70_Cantueso_2411211445_0_17.504_4.478_5.479.jpeg,Lavandula
+203,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-2-Sample_61_Olea_Brassica_Salix_2007211337_0_12.170_1.651_5.147.jpeg,Brassica
+204,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-5-Sample_66_Echium_Lotus_Castanea_Euc_2109211645_0_21.904_-4.329_5.196.jpeg,Eucalyptus sp.
+205,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-4-Sample_21_Rapseed_33.737_-4.838_0.763.jpeg,Brassica
+206,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-1-Sample_21_Rapseed_30.553_8.237_0.788.jpeg,Brassica
+207,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-2-Sample_51_Acacia_dirt_0809211649_0_12.245_0.193_5.133.jpeg,Helianthus annuus
+208,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-1-Sample_47_Tilia_0206211339_0_21.767_-3.322_0.833.jpeg,Tilia
+209,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-2-Sample_47_Tilia_0206211359_0_9.331_-2.022_0.710.jpeg,Tilia
+210,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-0-Sample_49_Tilia_Flor_3105211737_5.647059_4.941176_4.662721.jpeg,Tilia
+211,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-3-Sample_62_Thymus_0_33.789474_0.352941_4.890864.jpeg,Cistus sp
+212,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_19_2202211823_45.428571_3.071429_4.479354.jpeg,Helianthus annuus
+213,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-2-Sample_72_Arbutus_Erica_1011211139_0_1.006_-2.551_5.516.jpeg,Erica.m
+214,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cardus/Cardus-0-Sample_68_Persea_0410210946_0_46.4102_-0.1636_4.5969_2.jpeg,Cardus
+215,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-4-Sample_66_Echium_Lotus_Castanea_Euc_2109211627_0_12.035_6.642_5.174.jpeg,Eucalyptus sp.
+216,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_19_2602211259_1.058824_4.941176_4.214674.jpeg,Helianthus annuus
+217,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_0607211010_0_37.965_-0.469_5.258.jpeg,Erica.m
+218,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-2-Sample_79_UC_2712211141_0_13.677_-2.451_-0.012.jpeg,Helianthus annuus
+219,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-3-Sample_21_Rapseed_Brassica_31.jpeg,Brassica
+220,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-0-Sample_21_Rapseed_24.750_7.419_0.779.jpeg,Brassica
+221,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_2106211247_0_6.261_-3.359_0.816.jpeg,Erica.m
+222,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-0-Sample_71_Lavanda_Espliego_2810211119_0_16.070_0.684_5.493.jpeg,Lavandula
+223,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-1-Sample_49_Tilia_Flor_3105211737_22.941176_6.705882_4.733504.jpeg,Tilia
+224,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-1-Sample_21_Rapseed_11.533_-6.775_0.686.jpeg,Brassica
+225,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-1-Sample_72_Arbutus_Erica_2810211546_0_30.374_0.866_5.503.jpeg,Erica.m
+226,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-4-Sample_21_Rapseed_25.062_9.325_0.775.jpeg,Brassica
+227,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-0-Sample_72_Arbutus_Erica_0311210924_0_9.136_-3.485_5.470.jpeg,Erica.m
+228,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-1-Sample_23_Euc_Ech_Coro_31.510_-0.375_0.804.jpeg,Eucalyptus sp.
+229,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cardus/Cardus-0-Sample_68_Persea_0410210958_0_52.6946_0.0521_4.5942_2.jpeg,Cardus
+230,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_0607211038_0_13.278_2.983_5.231.jpeg,Erica.m
+231,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-0-Sample_49_Tilia_Flor_3105211737_22.588235_0.352941_4.729458.jpeg,Tilia
+232,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_2906211207_0_37.613_-5.615_5.282.jpeg,Erica.m
+233,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-1-Sample_58_Vaccinium_myrtillus_0607210932_0_49.619_-2.235_5.366.jpeg,Erica.m
+234,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-2-Sample_71_Lavanda_Espliego_2110211236_0_22.866_11.439_5.486.jpeg,Lavandula
+235,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-0-Sample_72_Arbutus_Erica_0311211526_0_34.952_-4.109_5.471.jpeg,Erica.m
+236,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-2-Sample_72_Arbutus_Erica_0311210951_0_36.359_2.499_5.496.jpeg,Erica.m
+237,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Pinus/Pinus-0-Sample_77_Pinus_Poaceae_2112211339_0_19.132_7.650_5.484.jpeg,Pinus
+238,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-2-Sample_3_Capture_183.bmp,Eucalyptus sp.
+239,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Citrus sp/Citrus sp-1-Sample_67_Citrus_0410211639_0_43.514_-0.919_0.037.jpeg,Citrus sp
+240,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-1-Sample_72_Arbutus_Erica_2810211541_0_42.158_-0.766_5.527.jpeg,Erica.m
+241,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-0-Sample_71_Lavanda_Espliego_2110210901_0_15.421_0.584_5.409.jpeg,Lavandula
+242,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-2-Sample_58_Vaccinium_myrtillus_2106211615_0_18.273_-1.934_0.783.jpeg,Erica.m
+243,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_64_Erica.t_Calluna_0109211736_0_13.389_11.000_5.236.jpeg,Erica.m
+244,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-1-Sample_71_Lavanda_Espliego_2810211142_0_32.590_2.135_5.508.jpeg,Lavandula
+245,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-1-Sample_3_Capture_282.bmp,Eucalyptus sp.
+246,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Citrus sp/Citrus sp-0-Sample_67_Citrus_0410211004_0_21.847_-2.484_5.369.jpeg,Citrus sp
+247,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Taraxacum/Taraxacum-1-Sample_70_Cantueso_2010211641_0_4.857_7.017_5.654.jpeg,Taraxacum
+248,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-3-Sample_3_Capture_121.bmp,Eucalyptus sp.
+249,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_15_giras (412).jpeg,Helianthus annuus
+250,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-3-Sample_71_Lavanda_Espliego_2110210902_0_18.388_0.632_5.418.jpeg,Lavandula
+251,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-3-Sample_66_Echium_Lotus_Castanea_Euc_2109211100_0_7.239_1.157_5.220.jpeg,Eucalyptus sp.
+252,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_2906211214_0_14.991_-4.351_5.271.jpeg,Erica.m
+253,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_22_imported_Ana_10.175439_7.500000_4.450819.jpeg,Helianthus annuus
+254,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-1-Sample_49_Tilia_Flor_3105211737_5.294118_1.764706_4.657801.jpeg,Tilia
+255,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Citrus sp/Citrus sp-0-Citrus_no_fucsin_15.461_-1.619_0.801.jpeg,Citrus sp
+256,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-0-Sample_72_Arbutus_Erica_0511211156_0_34.294_10.335_5.507.jpeg,Erica.m
+257,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-0-Sample_70_Cantueso_2010210943_0_33.974_-2.518_5.669.jpeg,Lavandula
+258,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-0-Sample_72_Arbutus_Erica_0311211536_0_10.295_-2.209_5.443.jpeg,Erica.m
+259,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-0-Sample_61_Olea_Brassica_Salix_0_25.807018_5.647059_3.854506.jpeg,Brassica
+260,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_2106211343_0_15.029_4.259_0.817.jpeg,Erica.m
+261,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_22_imported_Ana_Capture_732.jpg,Helianthus annuus
+262,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Citrus sp/Citrus sp-0-Sample_67_Citrus_2909211028_0_49.094_8.085_5.565.jpeg,Citrus sp
+263,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Rosmarinus officinalis/Rosmarinus officinalis-0-Sample_19_Rosmarinus_Rosmarinus_297.jpeg,Rosmarinus officinalis
+264,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-0-Sample_23_Euc_Ech_Coro_4.622_-1.956_0.800.jpeg,Eucalyptus sp.
+265,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-1-Sample_72_Arbutus_Erica_0511211244_0_42.258_11.316_5.515.jpeg,Erica.m
+266,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Taraxacum/Taraxacum-2-Sample_64_Erica.t_Calluna_0109211617_0_2.387_-2.819_5.180.jpeg,Taraxacum
+267,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-1-Sample_22_imported_Ana_090320210921_Capture_98.jpg,Helianthus annuus
+268,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cardus/Cardus-1-Sample_67_Citrus_0410211114_0_32.419_13.552_5.448.jpeg,Cardus
+269,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-0-Sample_21_Rapseed_40.470_-4.756_0.773.jpeg,Brassica
+270,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-1-Sample_72_Arbutus_Erica_0911211250_0_21.689_-0.316_5.487.jpeg,Erica.m
+271,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Citrus sp/Citrus sp-1-Sample_79_UC_0401221021_0_8.418_-0.465_5.184.jpeg,Citrus sp
+272,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-0-Sample_47_Tilia_0706211406_0_5.987_4.875_0.751.jpeg,Tilia
+273,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_2106211319_0_26.197_0.156_0.824.jpeg,Erica.m
+274,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-0-Sample_49_Tilia_Flor_3105211737_1.058824_4.941176_4.666881.jpeg,Tilia
+275,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-1-Sample_21_Rapseed_30.072_11.825_0.786.jpeg,Brassica
+276,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-1-Sample_17_sunflower_0_26.947368_0.352941_4.626526.jpeg,Helianthus annuus
+277,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Rosmarinus officinalis/Rosmarinus officinalis-0-Sample_19_Rosmarinus_27.444_-0.194_0.723.jpeg,Rosmarinus officinalis
+278,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Rosmarinus officinalis/Rosmarinus officinalis-0-Sample_63_Rosmarinus_Prunus_0_22.729683_-1.149505_5.057080.jpeg,Rosmarinus officinalis
+279,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-0-Sample_47_Tilia_0_35.631579_0.000000_4.816778.jpeg,Tilia
+280,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-3-Sample_61_Olea_Brassica_Salix_2007211352_0_40.425_2.718_5.180.jpeg,Brassica
+281,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Citrus sp/Citrus sp-0-Sample_67_Citrus_2909211233_0_12.103_6.434_5.515.jpeg,Citrus sp
+282,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-1-Sample_79_UC_2812211345_0_9.260_-3.053_-0.015.jpeg,Cistus sp
+283,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Citrus sp/Citrus sp-1-Sample_61_Olea_Brassica_Salix_0_31.947368_3.529412_3.839360.jpeg,Citrus sp
+284,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Rosmarinus officinalis/Rosmarinus officinalis-0-Sample_19_Rosmarinus_48.103_0.819_0.791.jpeg,Rosmarinus officinalis
+285,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-3-Sample_72_Arbutus_Erica_1011211308_0_7.618_2.335_5.472.jpeg,Helianthus annuus
+286,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-0-Sample_47_Tilia_0206211400_0_8.799_-1.972_0.701.jpeg,Tilia
+287,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-4-Sample_66_Echium_Lotus_Castanea_Euc_2109211116_0_25.780_2.808_5.226.jpeg,Eucalyptus sp.
+288,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-4-Sample_21_Rapseed_9.926_-3.406_0.719.jpeg,Brassica
+289,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_22_imported_Ana_040320211009_Capture_125.jpg,Helianthus annuus
+290,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_2906211252_0_30.112_2.934_5.275.jpeg,Erica.m
+291,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-3-Sample_72_Arbutus_Erica_0311210937_0_42.326_-0.818_5.511.jpeg,Erica.m
+292,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-4-Sample_47_Tilia_0206211346_0_55.742_-3.122_0.995.jpeg,Tilia
+293,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-0-Sample_21_Rapseed_43.431_-6.000_0.760.jpeg,Brassica
+294,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-7-Sample_44_Cardus_0_35.323797_0.805252_3.890032.jpeg,Helianthus annuus
+295,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_2106211550_0_26.714_4.041_0.800.jpeg,Erica.m
+296,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-2-Sample_47_Tilia_0206211409_0_-3.654_-2.806_0.678.jpeg,Tilia
+297,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_15_giras (371).jpeg,Helianthus annuus
+298,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-1-Sample_65_Castanea_1309211532_0_12.321_-1.220_5.136.jpeg,Eucalyptus sp.
+299,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_22_imported_Ana_050320210848_Capture_287.jpg,Helianthus annuus
+300,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-0-Sample_3_Capture_476.bmp,Eucalyptus sp.
+301,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-0-Sample_21_Rapseed_0_11.070175_0.000000_4.838750.jpeg,Brassica
+302,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-2-Sample_49_Tilia_Flor_3105211737_22.588235_11.294118_4.724940.jpeg,Tilia
+303,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-0-Sample_70_Cantueso_1810211229_0_18.399_5.671_5.505.jpeg,Lavandula
+304,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-0-Sample_70_Cantueso_1410211702_0_24.519_6.426_5.520.jpeg,Lavandula
+305,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-1-Sample_19_2602211259_29.294118_4.588235_4.209822.jpeg,Helianthus annuus
+306,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-2-Sample_17_sunflower_0709211324_0_47.385_2.834_5.280.jpeg,Helianthus annuus
+307,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-0-Sample_49_Tilia_Flor_3105211737_1.058824_4.588235_4.655094.jpeg,Tilia
+308,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Citrus sp/Citrus sp-0-Sample_67_Citrus_2909211521_0_33.124_-0.766_5.538.jpeg,Citrus sp
+309,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-0-Sample_72_Arbutus_Erica_2710211137_0_40.850_8.501_5.558.jpeg,Erica.m
+310,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_15_girasol_133.jpeg,Helianthus annuus
+311,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-0-Sample_68_Persea_0510211312_0_51.0592_6.8501_5.1483.jpeg,Cistus sp
+312,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Taraxacum/Taraxacum-0-Sample_17_sunflower_0709211339_0_0.208_6.333_5.219.jpeg,Taraxacum
+313,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-1-Sample_68_Persea_0510211121_0_47.0440_3.3990_5.0650.jpeg,Cistus sp
+314,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_17_sunflower_0709211244_0_3.025_-7.036_5.068.jpeg,Helianthus annuus
+315,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-1-Sample_21_Rapseed_27.596_9.269_0.781.jpeg,Brassica
+316,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_0607210927_0_23.480_-2.432_5.165.jpeg,Erica.m
+317,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-0-Sample_47_Tilia_0206211402_0_6.198_-2.353_0.688.jpeg,Tilia
+318,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_64_Erica.t_Calluna_0209211632_0_12.453_9.111_5.243.jpeg,Erica.m
+319,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_64_Erica.t_Calluna_0209210943_0_2.067_0.179_5.214.jpeg,Erica.m
+320,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_0607211235_0_8.808_13.570_5.244.jpeg,Erica.m
+321,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-0-Sample_47_Tilia_0706211339_0_38.292_2.794_0.846.jpeg,Tilia
+322,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-3-Sample_62_Thymus_0_13.526316_0.000000_4.805312.jpeg,Cistus sp
+323,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Citrus sp/Citrus sp-0-Sample_67_Citrus_2909210909_0_8.569_11.302_5.521.jpeg,Citrus sp
+324,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-0-Sample_72_Arbutus_Erica_1211211242_0_42.176_13.035_5.518.jpeg,Erica.m
+325,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Pinus/Pinus-0-Sample_72_Arbutus_Erica_0511211123_0_12.338_2.365_5.475.jpeg,Pinus
+326,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-1-Sample_43_Calluna_1905211020_0_29.733_6.397_0.886.jpeg,Erica.m
+327,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Pinus/Pinus-0-Sample_77_Pinus_Poaceae_2112211242_0_24.382_0.402_5.480.jpeg,Pinus
+328,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Taraxacum/Taraxacum-1-Sample_67_Citrus_0410211144_0_8.846_10.852_5.442.jpeg,Taraxacum
+329,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_64_Erica.t_Calluna_0209211628_0_33.192_10.279_5.255.jpeg,Erica.m
+330,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Citrus sp/Citrus sp-0-Sample_67_Citrus_0410211713_0_38.313_3.466_0.013.jpeg,Citrus sp
+331,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-1-Sample_64_Erica.t_Calluna_0109211717_0_20.524_5.448_5.242.jpeg,Erica.m
+332,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-0-Sample_56_BrassicaHoney_Salix_Quercus_1606211334_0_29.206_7.003_0.746.jpeg,Brassica
+333,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-2-Sample_72_Arbutus_Erica_0311210938_0_35.623_-0.283_5.495.jpeg,Erica.m
+334,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_64_Erica.t_Calluna_0109211553_0_36.560_-5.404_5.238.jpeg,Erica.m
+335,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-3-Sample_21_Rapseed_0_14.736842_0.705882_0.741595.jpeg,Brassica
+336,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_43_Calluna_1905211031_0_18.696_8.947_0.828.jpeg,Erica.m
+337,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-0-Sample_21_Rapseed_0_11.052632_0.000000_0.731305_2.jpeg,Brassica
+338,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_64_Erica.t_Calluna_0109211309_0_9.495_-1.339_5.212.jpeg,Erica.m
+339,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-1-Sample_66_Echium_Lotus_Castanea_Euc_2109210926_0_48.659_-1.618_5.280.jpeg,Eucalyptus sp.
+340,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Rosmarinus officinalis/Rosmarinus officinalis-0-Sample_19_Rosmarinus_31.857_6.775_0.789.jpeg,Rosmarinus officinalis
+341,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Citrus sp/Citrus sp-0-Sample_67_Citrus_0410211130_0_16.848_12.302_5.450.jpeg,Citrus sp
+342,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_43_Calluna_1905211126_0_28.751_2.650_0.857.jpeg,Erica.m
+343,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_2106211547_0_6.592_4.025_0.791.jpeg,Erica.m
+344,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-3-Sample_65_Castanea_1309211517_0_36.753_-2.878_5.196.jpeg,Eucalyptus sp.
+345,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cardus/Cardus-0-Sample_44_Cardus_0_36.025551_1.514929_3.891577.jpeg,Cardus
+346,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-0-Sample_47_Tilia_0706211538_0_15.289_6.844_0.785.jpeg,Tilia
+347,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_2906211307_0_15.008_6.720_5.275.jpeg,Erica.m
+348,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-0-Sample_70_Cantueso_2010211658_0_8.474_3.667_5.653.jpeg,Lavandula
+349,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-0-Sample_21_Rapseed_0_14.122807_0.705882_0.726810.jpeg,Brassica
+350,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-1-Sample_53_Tilia_honey_3105211737_24.000000_10.588235_4.727110_2.jpeg,Tilia
+351,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_43_Calluna_1905211100_0_14.679_-1.031_0.920.jpeg,Erica.m
+352,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Rosmarinus officinalis/Rosmarinus officinalis-1-Sample_19_Rosmarinus_40.350_14.019_0.773.jpeg,Rosmarinus officinalis
+353,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-2-Sample_21_Rapseed_20.827_0.231_0.683.jpeg,Brassica
+354,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Taraxacum/Taraxacum-0-Sample_67_Citrus_0410211136_0_23.817_11.800_5.468.jpeg,Taraxacum
+355,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-3-Sample_19_Rosmarinus_40.131_8.569_0.770.jpeg,Cistus sp
+356,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-0-Sample_72_Arbutus_Erica_1011211140_0_4.206_-3.068_5.509.jpeg,Cistus sp
+357,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_22_imported_Ana_050320211215_Capture_672.jpg,Helianthus annuus
+358,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-1-Sample_72_Arbutus_Erica_0911211531_0_38.814_1.190_5.519.jpeg,Erica.m
+359,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_64_Erica.t_Calluna_0209210932_0_27.440_-2.949_5.158.jpeg,Erica.m
+360,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-3-Sample_21_Rapseed_0_14.122807_1.058824_0.738558.jpeg,Brassica
+361,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-0-Sample_71_Lavanda_Espliego_2110210955_0_4.813_6.054_5.494.jpeg,Lavandula
+362,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-0-Sample_71_Lavanda_Espliego_1810211329_0_12.194_1.599_5.511.jpeg,Lavandula
+363,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Citrus sp/Citrus sp-0-Sample_67_Citrus_2909211317_0_52.746_4.753_5.560.jpeg,Citrus sp
+364,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Rosmarinus officinalis/Rosmarinus officinalis-0-Sample_63_Rosmarinus_Prunus_0_22.729683_-1.149505_5.049080.jpeg,Rosmarinus officinalis
+365,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_2906211525_0_32.499_-4.853_5.195.jpeg,Erica.m
+366,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Taraxacum/Taraxacum-6-Sample_17_sunflower_0709211333_0_10.712_4.068_5.198.jpeg,Taraxacum
+367,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-1-Sample_72_Arbutus_Erica_1011211002_0_33.376_13.708_5.510.jpeg,Erica.m
+368,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-1-Sample_72_Arbutus_Erica_2810211517_0_14.419_-4.701_5.487.jpeg,Erica.m
+369,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_19_2202211823_18.428571_6.071429_4.466367.jpeg,Helianthus annuus
+370,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_22_imported_Ana_Capture_759.jpg,Helianthus annuus
+371,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-0-Sample_70_Cantueso_2010211637_0_10.809_8.252_5.646.jpeg,Lavandula
+372,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-0-Sample_64_Erica.t_Calluna_0209211037_0_15.554_10.614_5.262.jpeg,Brassica
+373,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-1-Sample_71_Lavanda_Espliego_1810211344_0_23.597_3.581_5.525.jpeg,Lavandula
+374,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Rosmarinus officinalis/Rosmarinus officinalis-0-Sample_19_Rosmarinus_0803211105_0_37.219_9.969_0.699.jpeg,Rosmarinus officinalis
+375,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-0-Sample_62_Thymus_0_11.070175_0.000000_4.883125.jpeg,Cistus sp
+376,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-1-Sample_56_BrassicaHoney_Salix_Quercus_1606211333_0_32.813_8.562_0.745.jpeg,Brassica
+377,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-1-Sample_68_Persea_0510211119_0_51.9456_3.8155_5.0770.jpeg,Cistus sp
+378,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-1-Sample_58_Vaccinium_myrtillus_0607210918_0_13.661_-3.049_5.109.jpeg,Erica.m
+379,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-0-Sample_52_Brassica_0_29.491228_2.823529_4.671784.jpeg,Brassica
+380,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-2-Sample_44_Cardus_0_36.025551_1.514929_3.887577.jpeg,Helianthus annuus
+381,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_0607211207_0_7.527_10.617_5.243.jpeg,Erica.m
+382,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-0-Sample_21_Rapseed_Brassica_95.jpeg,Brassica
+383,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-1-Sample_19_16.500000_1.785714_4.234692.jpeg,Helianthus annuus
+384,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_17_sunflower_0809211524_0_5.327_2.276_5.137.jpeg,Helianthus annuus
+385,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-3-Sample_72_Arbutus_Erica_0511211342_0_6.632_3.299_5.482.jpeg,Helianthus annuus
+386,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-2-Sample_3_Capture_503.bmp,Eucalyptus sp.
+387,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-0-Sample_49_Tilia_Flor_3105211737_5.647059_0.352941_4.670366.jpeg,Tilia
+388,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-0-Sample_47_Tilia_0706211340_0_35.093_2.794_0.828.jpeg,Tilia
+389,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-0-Sample_49_Tilia_Flor_3105211737_1.764706_2.470588_4.657236.jpeg,Tilia
+390,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Rosmarinus officinalis/Rosmarinus officinalis-0-Sample_19_Rosmarinus_45.934_8.737_0.779.jpeg,Rosmarinus officinalis
+391,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_0607211136_0_12.828_8.419_5.244.jpeg,Erica.m
+392,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-3-Sample_72_Arbutus_Erica_1611211707_0_8.602_-6.300_5.459.jpeg,Cistus sp
+393,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-2-Sample_61_Olea_Brassica_Salix_2007211342_0_36.742_1.316_5.193.jpeg,Brassica
+394,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-2-Sample_66_Echium_Lotus_Castanea_Euc_2109211102_0_15.248_1.231_5.216.jpeg,Eucalyptus sp.
+395,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-5-Sample_67_Citrus_2809211720_0_3.390_13.704_5.508.jpeg,Brassica
+396,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-2-Sample_47_Tilia_0206211408_0_-3.104_-2.738_0.685.jpeg,Tilia
+397,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-0-Sample_61_Olea_Brassica_Salix_0_26.421053_1.764706_4.778648.jpeg,Cistus sp
+398,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_22_imported_Ana_13.333333_8.214286_4.450106.jpeg,Helianthus annuus
+399,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-9-Sample_62_Thymus_0_15.368421_0.352941_4.814177.jpeg,Cistus sp
+400,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-1-Sample_64_Erica.t_Calluna_0109211209_0_6.810_1.993_5.268.jpeg,Erica.m
+401,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Pinus/Pinus-1-Sample_77_Pinus_Poaceae_2112211327_0_3.816_6.467_5.444.jpeg,Pinus
+402,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Citrus sp/Citrus sp-6-Sample_78_Pistacia_1309210907_0_4.334_-0.201_5.144.jpeg,Citrus sp
+403,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-2-Sample_19_2202211823_35.785714_8.214286_4.463120.jpeg,Helianthus annuus
+404,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-4-Sample_66_Echium_Lotus_Castanea_Euc_2109211343_0_5.817_-4.578_5.189.jpeg,Eucalyptus sp.
+405,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-1-Sample_43_Calluna_1405211345_0_19.972_6.641_0.846.jpeg,Erica.m
+406,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Rosmarinus officinalis/Rosmarinus officinalis-0-Sample_19_Rosmarinus_29.364_4.019_0.787.jpeg,Rosmarinus officinalis
+407,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-0-Sample_21_Rapseed_0_19.666667_0.705882_4.870924.jpeg,Brassica
+408,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Rosmarinus officinalis/Rosmarinus officinalis-1-Sample_19_Rosmarinus_31.782_-0.175_0.786.jpeg,Rosmarinus officinalis
+409,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-2-Sample_21_Rapseed_Brassica_46.jpeg,Brassica
+410,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-4-Sample_21_Rapseed_42.126_11.600_0.796.jpeg,Brassica
+411,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-2-Sample_21_Rapseed_Brassica_96.jpeg,Brassica
+412,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-4-Sample_71_Lavanda_Espliego_1810211315_0_36.700_-0.703_5.515.jpeg,Lavandula
+413,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-2-Sample_67_Citrus_2809211633_0_21.811_8.583_5.513.jpeg,Cistus sp
+414,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Rosmarinus officinalis/Rosmarinus officinalis-0-Sample_19_Rosmarinus_49.781_1.412_0.798.jpeg,Rosmarinus officinalis
+415,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-8-Sample_62_Thymus_0_26.421053_0.352941_4.838888.jpeg,Cistus sp
+416,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-4-Sample_49_Tilia_Flor_3105211737_21.882353_2.117647_4.721700.jpeg,Tilia
+417,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_17_sunflower_Girasol 65.bmp,Helianthus annuus
+418,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Taraxacum/Taraxacum-2-Sample_17_sunflower_0709211243_0_4.075_-7.185_5.065.jpeg,Taraxacum
+419,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-1-Sample_70_Cantueso_2010211659_0_11.893_3.269_5.649.jpeg,Lavandula
+420,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-0-Sample_21_Rapseed_49.897_-5.238_0.782.jpeg,Brassica
+421,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-1-Sample_17_sunflower_0709211253_0_35.215_-4.500_5.204.jpeg,Helianthus annuus
+422,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_19_2602211145_33.000000_0.705882_4.202218.jpeg,Helianthus annuus
+423,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-1-Sample_72_Arbutus_Erica_2311210958_0_43.984_-3.440_9.741.jpeg,Cistus sp
+424,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-1-Sample_19_2202211823_20.357143_7.785714_4.464834.jpeg,Helianthus annuus
+425,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-2-Sample_79_UC_0401221441_0_22.766_11.406_5.207.jpeg,Brassica
+426,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-0-Sample_52_Brassica_0_35.017544_2.117647_4.654654.jpeg,Brassica
+427,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Rosmarinus officinalis/Rosmarinus officinalis-0-Sample_75_Liliaceae_Pollen_2012211343_0_39.164_11.082_5.490.jpeg,Rosmarinus officinalis
+428,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-1-Sample_61_Olea_Brassica_Salix_0_25.807018_0.352941_4.977219.jpeg,Brassica
+429,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-1-Sample_22_imported_Ana_050320210848_Capture_245.jpg,Helianthus annuus
+430,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-2-Sample_19_Rosmarinus_54.631_6.306_0.889.jpeg,Cistus sp
+431,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-1-Sample_21_Rapseed_Brassica_79.jpeg,Brassica
+432,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-3-Sample_66_Echium_Lotus_Castanea_Euc_2109211121_0_0.448_3.049_5.217.jpeg,Eucalyptus sp.
+433,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_0607211022_0_9.710_1.116_5.240.jpeg,Erica.m
+434,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-1-Sample_72_Arbutus_Erica_0311210924_0_7.835_-3.734_5.474.jpeg,Erica.m
+435,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-0-Sample_62_Thymus_0709211141_0_15.662_5.601_5.206.jpeg,Cistus sp
+436,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-0-Sample_72_Arbutus_Erica_0911211527_0_28.344_2.272_5.501.jpeg,Erica.m
+437,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-1-Sample_49_Tilia_Flor_3105211737_21.882353_4.588235_4.722568.jpeg,Tilia
+438,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-3-Sample_21_Rapseed_Brassica_75.jpeg,Brassica
+439,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_2906211315_0_8.839_8.434_5.262.jpeg,Erica.m
+440,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-3-Sample_21_Rapseed_9.926_-3.406_0.714.jpeg,Brassica
+441,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_22_imported_Ana_050320211215_Capture_407.jpg,Helianthus annuus
+442,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Pinus/Pinus-2-Sample_72_Arbutus_Erica_0311211016_0_7.036_8.754_5.476.jpeg,Pinus
+443,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-1-Sample_21_Rapseed_21.856_-2.488_0.746.jpeg,Brassica
+444,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-0-Sample_3_Capture_471.bmp,Eucalyptus sp.
+445,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cardus/Cardus-0-Sample_22_imported_Ana_220320211346_Capture_106.jpg,Cardus
+446,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-4-Sample_65_Castanea_1309211218_0_-1.321_-0.580_5.135.jpeg,Eucalyptus sp.
+447,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_0607210956_0_30.232_-1.015_5.251.jpeg,Erica.m
+448,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-1-Sample_61_Olea_Brassica_Salix_0_29.491228_0.705882_4.766871.jpeg,Cistus sp
+449,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-0-Sample_52_Brassica_0_36.245614_0.705882_4.650916.jpeg,Brassica
+450,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-0-Sample_23_Euc_Ech_Coro_18.387_-0.413_0.794.jpeg,Eucalyptus sp.
+451,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-1-Sample_70_Cantueso_2010211659_0_10.043_3.667_5.651.jpeg,Lavandula
+452,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cardus/Cardus-1-Sample_68_Persea_0510211033_0_14.3547_1.5991_4.6236_2.jpeg,Cardus
+453,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-0-Sample_21_Rapseed_36.907_9.225_0.793.jpeg,Brassica
+454,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-20-Sample_66_Echium_Lotus_Castanea_Euc_2109211233_0_15.407_3.366_5.156.jpeg,Eucalyptus sp.
+455,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Pinus/Pinus-1-Sample_32_PINUS_2603211549_27.176471_6.352941_0.772002.jpeg,Pinus
+456,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-1-Sample_58_Vaccinium_myrtillus_0607211229_0_37.531_13.604_5.266.jpeg,Erica.m
+457,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_19_2202211823_3.000000_8.214286_4.470122.jpeg,Helianthus annuus
+458,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-0-Sample_70_Cantueso_2010211245_0_40.376_5.950_5.688.jpeg,Lavandula
+459,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Citrus sp/Citrus sp-7-Sample_78_Pistacia_1309210910_0_8.952_-0.216_5.135.jpeg,Citrus sp
+460,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-0-Sample_71_Lavanda_Espliego_2110211011_0_7.731_1.105_5.492.jpeg,Lavandula
+461,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Rosmarinus officinalis/Rosmarinus officinalis-0-Sample_19_Rosmarinus_57.712_3.456_0.821.jpeg,Rosmarinus officinalis
+462,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-1-Sample_62_Thymus_0709211202_0_20.530_2.867_5.193.jpeg,Cistus sp
+463,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-6-Sample_23_Euc_Ech_Coro_33.425_-0.956_0.807.jpeg,Eucalyptus sp.
+464,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-0-Sample_47_Tilia_0706211601_0_39.659_7.144_0.875.jpeg,Tilia
+465,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_64_Erica.t_Calluna_0709210850_0_18.678_4.552_5.152.jpeg,Erica.m
+466,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-0-Sample_56_BrassicaHoney_Salix_Quercus_1606211358_0_12.482_9.487_0.667.jpeg,Brassica
+467,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-0-Sample_21_Rapseed_30.504_0.481_0.785.jpeg,Brassica
+468,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-1-Sample_72_Arbutus_Erica_0911211715_0_17.643_-5.761_5.470.jpeg,Erica.m
+469,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-2-Sample_56_BrassicaHoney_Salix_Quercus_1606211626_0_29.230_7.934_0.687.jpeg,Brassica
+470,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-0-Sample_23_Euc_Ech_Coro_27.582_-2.856_0.804.jpeg,Eucalyptus sp.
+471,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_64_Erica.t_Calluna_0109211307_0_12.396_2.678_5.214.jpeg,Erica.m
+472,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-0-Sample_74_Ceratonia_0312211011_0_29.345_1.402_5.511.jpeg,Erica.m
+473,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-2-Sample_72_Arbutus_Erica_0311211529_0_30.101_-3.525_5.461.jpeg,Erica.m
+474,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-3-Sample_3_Capture_286_2.bmp,Eucalyptus sp.
+475,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_47_Tilia_0_15.017544_0.352941_4.628855.jpeg,Helianthus annuus
+476,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-1-Sample_17_sunflower_0809211525_0_-4.525_1.376_5.165.jpeg,Tilia
+477,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-0-Sample_47_Tilia_0206211356_0_18.583_-1.888_0.742.jpeg,Tilia
+478,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Taraxacum/Taraxacum-1-Sample_17_sunflower_0709211256_0_12.861_-3.901_5.189.jpeg,Taraxacum
+479,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Pinus/Pinus-3-Sample_76_Plantago_2004211109_30.000000_3.176471_0.782625.jpeg,Pinus
+480,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Pinus/Pinus-1-Sample_72_Arbutus_Erica_0911211652_0_48.398_-4.697_5.533.jpeg,Pinus
+481,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Rosmarinus officinalis/Rosmarinus officinalis-0-Sample_72_Arbutus_Erica_0911211302_0_27.342_-2.949_5.495.jpeg,Rosmarinus officinalis
+482,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-4-Sample_17_sunflower_0709211314_0_10.211_0.100_5.186.jpeg,Helianthus annuus
+483,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_0607211219_0_7.527_12.068_5.247.jpeg,Erica.m
+484,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-1-Sample_19_Rosmarinus_62.829_-3.294_0.785.jpeg,Cistus sp
+485,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-1-Sample_15_girasol_138.jpeg,Helianthus annuus
+486,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Citrus sp/Citrus sp-0-Sample_67_Citrus_2909211505_0_30.440_1.551_5.530.jpeg,Citrus sp
+487,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_64_Erica.t_Calluna_0109211700_0_18.589_2.231_5.222.jpeg,Erica.m
+488,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_22_imported_Ana_090320210921_Capture_59.jpg,Helianthus annuus
+489,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_22_imported_Ana_040320211009_Capture_115.jpg,Helianthus annuus
+490,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Rosmarinus officinalis/Rosmarinus officinalis-0-Sample_63_Rosmarinus_Prunus_0_23.782314_-0.439828_5.071444.jpeg,Rosmarinus officinalis
+491,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-1-Sample_47_Tilia_0_8.350877_2.470588_4.619339.jpeg,Helianthus annuus
+492,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_0607211127_0_51.870_7.467_5.296.jpeg,Erica.m
+493,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-2-Sample_47_Tilia_0_13.263158_1.411765_4.632608.jpeg,Helianthus annuus
+494,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_19_2602211145_5.000000_5.647059_4.208125.jpeg,Helianthus annuus
+495,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-0-Sample_70_Cantueso_2010210945_0_35.623_-2.666_5.669.jpeg,Lavandula
+496,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Citrus sp/Citrus sp-0-Sample_67_Citrus_0410211228_0_17.714_3.317_5.502.jpeg,Citrus sp
+497,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cardus/Cardus-0-Sample_62_Thymus_0709211131_0_24.696_9.085_5.198.jpeg,Cardus
+498,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-3-Sample_72_Arbutus_Erica_1011211257_0_7.767_4.771_5.473.jpeg,Helianthus annuus
+499,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-0-Sample_72_Arbutus_Erica_2710211047_0_28.089_3.949_5.537.jpeg,Erica.m
+500,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_0607211037_0_10.428_2.983_5.239.jpeg,Erica.m
+501,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-0-Sample_21_Rapseed_1105211320_2.117647_0.000000_0.793594.jpeg,Brassica
+502,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-2-Sample_72_Arbutus_Erica_0911211252_0_39.244_-0.517_5.513.jpeg,Erica.m
+503,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Citrus sp/Citrus sp-0-Sample_67_Citrus_0410211225_0_12.631_4.284_5.491.jpeg,Citrus sp
+504,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-1-Sample_43_Calluna_1405211303_0_6.107_0.812_0.840.jpeg,Erica.m
+505,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Pinus/Pinus-0-Sample_77_Pinus_Poaceae_2112211321_0_39.122_5.526_5.495.jpeg,Pinus
+506,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_17_sunflower_0_17.122807_0.000000_4.597513.jpeg,Helianthus annuus
+507,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Taraxacum/Taraxacum-1-Sample_17_sunflower_0709211400_0_42.162_10.803_5.269.jpeg,Taraxacum
+508,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-0-Sample_71_Lavanda_Espliego_2110211427_0_36.762_10.357_5.488.jpeg,Lavandula
+509,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-0-Sample_65_Castanea_1309211223_0_22.068_-0.097_5.146.jpeg,Eucalyptus sp.
+510,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_22_imported_Ana_050320211215_Capture_549.jpg,Helianthus annuus
+511,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-0-Sample_53_Tilia_honey_3105211737_25.411765_0.000000_4.741751.jpeg,Tilia
+512,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Rosmarinus officinalis/Rosmarinus officinalis-0-Sample_72_Arbutus_Erica_0511211123_0_9.706_2.317_5.486.jpeg,Rosmarinus officinalis
+513,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-4-Sample_21_Rapseed_1105211320_2.117647_0.352941_0.779395.jpeg,Brassica
+514,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Citrus sp/Citrus sp-2-Sample_67_Citrus_2909211540_0_11.953_-4.001_5.515.jpeg,Citrus sp
+515,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-0-Sample_21_Rapseed_0_31.315789_0.000000_0.751456.jpeg,Brassica
+516,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-0-Sample_53_Tilia_honey_3105211737_25.058824_2.117647_4.734919.jpeg,Tilia
+517,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Citrus sp/Citrus sp-1-Sample_67_Citrus_0410211104_0_31.118_11.852_5.446.jpeg,Citrus sp
+518,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-1-Sample_19_10.714286_10.357143_4.244432.jpeg,Helianthus annuus
+519,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_15_giras (473).jpeg,Helianthus annuus
+520,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-4-Sample_71_Lavanda_Espliego_1810211343_0_19.846_3.499_5.522.jpeg,Lavandula
+521,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Rosmarinus officinalis/Rosmarinus officinalis-0-Sample_19_Rosmarinus_42.732_-2.231_0.781.jpeg,Rosmarinus officinalis
+522,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-1-Sample_47_Tilia_0706211330_0_11.771_-1.697_0.850.jpeg,Tilia
+523,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-0-Sample_23_Euc_Ech_Coro_14.771_0.256_0.788.jpeg,Eucalyptus sp.
+524,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-1-Sample_64_Erica.t_Calluna_0709210843_0_20.096_2.916_5.198.jpeg,Erica.m
+525,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-2-Sample_73_Malus_0311211125_0_10.953_7.170_5.475.jpeg,Cistus sp
+526,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Rosmarinus officinalis/Rosmarinus officinalis-0-Sample_19_Rosmarinus_67.073_12.137_0.902.jpeg,Rosmarinus officinalis
+527,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-1-Sample_72_Arbutus_Erica_2810211530_0_16.504_-2.800_5.488.jpeg,Erica.m
+528,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Taraxacum/Taraxacum-0-Sample_70_Cantueso_2411211525_0_35.774_0.744_5.495.jpeg,Taraxacum
+529,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-0-Sample_61_Olea_Brassica_Salix_2007211235_0_8.436_-2.384_5.231.jpeg,Brassica
+530,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-3-Sample_66_Echium_Lotus_Castanea_Euc_2109211119_0_8.615_2.908_5.217.jpeg,Eucalyptus sp.
+531,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-5-Sample_72_Arbutus_Erica_0311210938_0_35.623_-0.283_5.497.jpeg,Erica.m
+532,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-2-Sample_72_Arbutus_Erica_0311211536_0_10.295_-2.209_5.443.jpeg,Erica.m
+533,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-1-Sample_66_Echium_Lotus_Castanea_Euc_2109210917_0_16.453_-3.552_5.184.jpeg,Eucalyptus sp.
+534,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-0-Sample_68_Persea_2709211027_0_41.6726_-0.1116_4.8928.jpeg,Cistus sp
+535,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-4-Sample_21_Rapseed_46.713_-3.669_0.786.jpeg,Brassica
+536,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-1-Sample_51_Acacia_dirt_0809211714_0_-5.225_8.795_5.199.jpeg,Helianthus annuus
+537,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_64_Erica.t_Calluna_0109211222_0_6.510_5.746_5.232.jpeg,Erica.m
+538,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-1-Sample_56_BrassicaHoney_Salix_Quercus_1606211334_0_29.640_7.003_0.741.jpeg,Brassica
+539,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Rosmarinus officinalis/Rosmarinus officinalis-4-Sample_79_UC_2812211434_0_18.713_-0.483_-0.008.jpeg,Rosmarinus officinalis
+540,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-1-Sample_61_Olea_Brassica_Salix_2007211347_0_51.828_2.034_5.482.jpeg,Brassica
+541,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-0-Sample_72_Arbutus_Erica_2710211311_0_51.186_10.219_5.557.jpeg,Lavandula
+542,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_17_sunflower_0_16.070175_1.058824_4.598673.jpeg,Helianthus annuus
+543,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-0-Sample_73_Malus_0311211141_0_49.227_-0.231_5.520.jpeg,Cistus sp
+544,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-3-Sample_77_Pinus_Poaceae_2112211321_0_41.981_5.641_5.511.jpeg,Helianthus annuus
+545,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-7-Sample_65_Castanea_1309211231_0_15.850_-1.967_5.148.jpeg,Eucalyptus sp.
+546,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_22_imported_Ana_11.228070_2.142857_4.448327.jpeg,Helianthus annuus
+547,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Citrus sp/Citrus sp-0-Sample_67_Citrus_2909211233_0_9.701_6.300_5.521.jpeg,Citrus sp
+548,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-7-Sample_66_Echium_Lotus_Castanea_Euc_2109211629_0_2.200_6.642_5.152.jpeg,Eucalyptus sp.
+549,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-1-Sample_73_Malus_0311211133_0_28.240_3.269_5.485.jpeg,Cistus sp
+550,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-0-Sample_47_Tilia_0706211213_0_30.642_4.419_0.792.jpeg,Tilia
+551,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-0-Sample_23_Euc_Ech_Coro_32.770_-1.725_0.801.jpeg,Eucalyptus sp.
+552,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-1-Sample_21_Rapseed_11.818_-1.944_0.725.jpeg,Brassica
+553,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_2906211612_0_21.845_-2.934_5.235.jpeg,Erica.m
+554,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Citrus sp/Citrus sp-1-Sample_61_Olea_Brassica_Salix_0_16.596491_2.117647_3.831709.jpeg,Citrus sp
+555,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-0-Sample_47_Tilia_0706211347_0_3.702_2.209_0.728.jpeg,Tilia
+556,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-0-Sample_21_Rapseed_52.823_11.600_0.815.jpeg,Brassica
+557,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Rosmarinus officinalis/Rosmarinus officinalis-0-Sample_19_Rosmarinus_0803210957_0_41.543_-2.969_0.763.jpeg,Rosmarinus officinalis
+558,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-2-Sample_68_Persea_0510211107_0_48.8256_2.4173_5.0680.jpeg,Cistus sp
+559,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_43_Calluna_1905210934_0_10.712_1.712_0.910.jpeg,Erica.m
+560,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-0-Sample_61_Olea_Brassica_Salix_0_38.701754_4.235294_3.831726.jpeg,Brassica
+561,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-2-Sample_61_Olea_Brassica_Salix_2007211521_0_45.036_3.633_5.312.jpeg,Cistus sp
+562,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-0-Sample_3_Capture_358.bmp,Eucalyptus sp.
+563,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-1-Sample_43_Calluna_1305211732_0_10.146_0.937_-0.008.jpeg,Erica.m
+564,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-1-Sample_72_Arbutus_Erica_2710211704_0_32.319_-4.411_5.532.jpeg,Cistus sp
+565,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-1-Sample_21_Rapseed_0_30.701754_1.058824_0.742012.jpeg,Brassica
+566,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-1-Sample_47_Tilia_0706211352_0_15.839_3.675_0.766.jpeg,Tilia
+567,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-0-Sample_72_Arbutus_Erica_2710211536_0_43.195_2.421_5.560.jpeg,Erica.m
+568,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-0-Sample_72_Arbutus_Erica_2810211549_0_10.969_0.900_5.489.jpeg,Erica.m
+569,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-3-Sample_21_Rapseed_14.477_-0.406_0.662.jpeg,Brassica
+570,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-0-Sample_3_Capture_490.bmp,Eucalyptus sp.
+571,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Citrus sp/Citrus sp-0-Sample_67_Citrus_0410211637_0_33.146_-1.019_0.003.jpeg,Citrus sp
+572,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-2-Sample_71_Lavanda_Espliego_2110210903_0_19.454_0.632_5.419.jpeg,Lavandula
+573,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Pinus/Pinus-1-Sample_77_Pinus_Poaceae_2112211244_0_33.465_0.283_5.501.jpeg,Pinus
+574,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_64_Erica.t_Calluna_0209211706_0_26.773_-4.857_5.262.jpeg,Erica.m
+575,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_17_sunflower_0709211316_0_-4.926_0.283_5.220.jpeg,Helianthus annuus
+576,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-0-Sample_47_Tilia_0706211239_0_24.541_6.319_0.855.jpeg,Tilia
+577,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_15_giras (295).jpeg,Helianthus annuus
+578,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-0-Sample_71_Lavanda_Espliego_1810211330_0_9.094_1.781_5.507.jpeg,Lavandula
+579,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_64_Erica.t_Calluna_0109211602_0_33.777_-3.436_5.234.jpeg,Erica.m
+580,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-2-Sample_65_Castanea_1309211229_0_33.454_-1.967_5.183.jpeg,Eucalyptus sp.
+581,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-1-Sample_58_Vaccinium_myrtillus_2106211520_0_47.619_7.075_0.871.jpeg,Erica.m
+582,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Citrus sp/Citrus sp-1-Sample_67_Citrus_2809211726_0_23.411_13.920_5.530.jpeg,Citrus sp
+583,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-2-Sample_65_Castanea_0906211541_2.823529_2.117647_4.720386.jpeg,Eucalyptus sp.
+584,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Citrus sp/Citrus sp-0-Sample_67_Citrus_2809211601_0_46.601_2.399_5.549.jpeg,Citrus sp
+585,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-1-Sample_21_Rapseed_48.882_-1.819_0.800.jpeg,Brassica
+586,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-4-Sample_65_Castanea_1309211602_0_50.607_2.462_5.296.jpeg,Eucalyptus sp.
+587,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-1-Sample_21_Rapseed_0_13.526316_0.000000_4.844609.jpeg,Brassica
+588,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-2-Sample_19_Rosmarinus_0803211050_0_53.856_6.712_0.853.jpeg,Cistus sp
+589,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-0-Sample_47_Tilia_0706211607_0_31.341_8.709_0.870.jpeg,Tilia
+590,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-7-Sample_62_Thymus_0_15.368421_0.352941_4.809177.jpeg,Cistus sp
+591,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_43_Calluna_1905211002_0_18.730_5.528_0.912.jpeg,Erica.m
+592,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-1-Sample_19_Rosmarinus_50.302_7.869_0.793.jpeg,Cistus sp
+593,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_2106211349_0_2.075_5.391_0.821.jpeg,Erica.m
+594,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-3-Sample_66_Echium_Lotus_Castanea_Euc_2109211234_0_7.689_3.366_5.139.jpeg,Eucalyptus sp.
+595,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Pinus/Pinus-0-Sample_32_PINUS_2603211549_27.529412_5.294118_0.775626.jpeg,Pinus
+596,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Rosmarinus officinalis/Rosmarinus officinalis-0-Sample_19_Rosmarinus_0803211012_0_54.617_5.606_0.858.jpeg,Rosmarinus officinalis
+597,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_43_Calluna_1905211007_0_51.803_6.097_1.038.jpeg,Erica.m
+598,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_0607211152_0_42.834_9.885_5.301.jpeg,Erica.m
+599,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Rosmarinus officinalis/Rosmarinus officinalis-0-Sample_19_Rosmarinus_0803211054_0_45.889_8.006_0.743.jpeg,Rosmarinus officinalis
+600,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-1-Sample_3_Capture_195.bmp,Eucalyptus sp.
+601,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Citrus sp/Citrus sp-0-Citrus_no_fucsin_47.853_-1.331_0.824.jpeg,Citrus sp
+602,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-0-Sample_21_Rapseed_12.388_7.419_0.756.jpeg,Brassica
+603,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-0-Sample_61_Olea_Brassica_Salix_0_16.596491_3.529412_3.822539.jpeg,Cistus sp
+604,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Rosmarinus officinalis/Rosmarinus officinalis-0-Sample_63_Rosmarinus_Prunus_0_10.456140_0.000000_5.100000.jpeg,Rosmarinus officinalis
+605,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Taraxacum/Taraxacum-1-Sample_17_sunflower_0709211309_0_50.820_-1.168_5.269.jpeg,Taraxacum
+606,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Taraxacum/Taraxacum-0-Sample_67_Citrus_0410211011_0_28.249_-1.432_5.422.jpeg,Taraxacum
+607,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Pinus/Pinus-0-Sample_77_Pinus_Poaceae_2112211247_0_46.537_0.443_5.590.jpeg,Pinus
+608,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-16-Sample_65_Castanea_1309211608_0_36.895_2.540_5.176.jpeg,Eucalyptus sp.
+609,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-0-Sample_71_Lavanda_Espliego_2110210928_0_14.731_3.477_5.433.jpeg,Lavandula
+610,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_0607210955_0_29.997_-1.015_5.249.jpeg,Erica.m
+611,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Pinus/Pinus-0-Sample_77_Pinus_Poaceae_2112211302_0_4.292_2.975_5.440.jpeg,Pinus
+612,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-0-Sample_21_Rapseed_25.970_-2.244_0.750.jpeg,Brassica
+613,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-4-Sample_62_Thymus_0_9.228070_0.000000_4.785000.jpeg,Brassica
+614,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-0-Sample_72_Arbutus_Erica_2810211533_0_2.418_-1.201_5.496.jpeg,Erica.m
+615,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_15_girasol_119.jpeg,Helianthus annuus
+616,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-4-Sample_71_Lavanda_Espliego_2110210859_0_9.885_0.599_5.416.jpeg,Lavandula
+617,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-0-Sample_70_Cantueso_1410211630_0_42.521_-2.473_5.598.jpeg,Lavandula
+618,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-0-Sample_72_Arbutus_Erica_0911211252_0_33.192_-0.651_5.505.jpeg,Erica.m
+619,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_43_Calluna_1905210946_0_17.730_2.094_0.910.jpeg,Erica.m
+620,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-1-Sample_35_Heliantus_test_df8_0_12.298246_1.411765_4.595608.jpeg,Helianthus annuus
+621,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-2-Sample_21_Rapseed_22.809_8.000_0.779.jpeg,Brassica
+622,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-6-Sample_66_Echium_Lotus_Castanea_Euc_2109211627_0_12.035_6.642_5.172.jpeg,Eucalyptus sp.
+623,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-16-Sample_66_Echium_Lotus_Castanea_Euc_2109211232_0_19.759_3.366_5.166.jpeg,Eucalyptus sp.
+624,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Pinus/Pinus-1-Sample_77_Pinus_Poaceae_2112211322_0_36.290_6.032_5.485.jpeg,Pinus
+625,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-5-Sample_72_Arbutus_Erica_0311211529_0_30.817_-3.492_5.460.jpeg,Erica.m
+626,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-0-Sample_72_Arbutus_Erica_0511211148_0_39.878_8.367_5.506.jpeg,Cistus sp
+627,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-4-Sample_66_Echium_Lotus_Castanea_Euc_2109211629_0_-3.818_6.776_5.161.jpeg,Eucalyptus sp.
+628,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-1-Sample_71_Lavanda_Espliego_2110210859_0_11.053_0.666_5.410.jpeg,Lavandula
+629,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Citrus sp/Citrus sp-0-Sample_67_Citrus_2809211541_0_6.858_-0.651_5.517.jpeg,Citrus sp
+630,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cardus/Cardus-2-Sample_67_Citrus_2809211741_0_32.080_13.418_5.530.jpeg,Cardus
+631,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Rosmarinus officinalis/Rosmarinus officinalis-0-Sample_72_Arbutus_Erica_0511211237_0_8.283_12.149_5.450.jpeg,Rosmarinus officinalis
+632,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-4-Sample_67_Citrus_2809211723_0_13.393_13.685_5.519.jpeg,Brassica
+633,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_17_sunflower_0709211329_0_31.448_3.499_5.210.jpeg,Helianthus annuus
+634,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-1-Sample_65_Castanea_0906211541_4.588235_0.705882_4.711878.jpeg,Eucalyptus sp.
+635,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-0-Sample_3_Capture_516.bmp,Eucalyptus sp.
+636,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_19_2602211145_34.000000_3.176471_4.209583.jpeg,Helianthus annuus
+637,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-7-Sample_62_Thymus_0_13.526316_0.000000_4.805312.jpeg,Brassica
+638,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-1-Sample_74_Ceratonia_2911211304_0_18.490_11.246_5.472.jpeg,Erica.m
+639,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-0-Sample_67_Citrus_0410211518_0_18.115_10.651_-0.012.jpeg,Cistus sp
+640,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-2-Sample_19_Rosmarinus_38.283_-0.069_0.772.jpeg,Cistus sp
+641,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Citrus sp/Citrus sp-3-Sample_67_Citrus_0410211707_0_23.544_2.001_-0.014.jpeg,Citrus sp
+642,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-2-Sample_62_Thymus_0709211123_0_40.850_7.300_5.214.jpeg,Cistus sp
+643,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-0-Sample_47_Tilia_0706211405_0_8.770_4.494_0.764.jpeg,Tilia
+644,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-2-Sample_62_Thymus_0_14.754386_0.000000_4.801328.jpeg,Cistus sp
+645,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-4-Sample_66_Echium_Lotus_Castanea_Euc_2109211644_0_19.236_-4.611_5.189.jpeg,Eucalyptus sp.
+646,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-0-Sample_61_Olea_Brassica_Salix_0_38.087719_0.000000_3.818509.jpeg,Cistus sp
+647,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-1-Sample_79_UC_1602221653_0_41.910_-1.607_5.324.jpeg,Brassica
+648,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Taraxacum/Taraxacum-0-Sample_79_UC_2812211629_0_10.811_7.185_-0.076.jpeg,Taraxacum
+649,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-3-Sample_62_Thymus_0_19.666667_0.000000_4.815107.jpeg,Cistus sp
+650,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Rosmarinus officinalis/Rosmarinus officinalis-0-Sample_19_Rosmarinus_40.274_1.300_0.796.jpeg,Rosmarinus officinalis
+651,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cardus/Cardus-2-Sample_62_Thymus_0_19.666667_0.000000_4.815107.jpeg,Cardus
+652,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-1-Sample_21_Rapseed_23.971_9.394_0.774.jpeg,Brassica
+653,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-1-Sample_47_Tilia_0_14.666667_0.352941_4.618072.jpeg,Helianthus annuus
+654,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-1-Sample_67_Citrus_0410211237_0_21.716_2.466_5.503.jpeg,Cistus sp
+655,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-4-Sample_71_Lavanda_Espliego_1810211314_0_34.449_-0.919_5.511.jpeg,Lavandula
+656,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_64_Erica.t_Calluna_0109211734_0_29.558_10.833_5.263.jpeg,Erica.m
+657,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Rosmarinus officinalis/Rosmarinus officinalis-0-Sample_63_Rosmarinus_Prunus_0_37.115648_-0.084989_5.093122.jpeg,Rosmarinus officinalis
+658,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Rosmarinus officinalis/Rosmarinus officinalis-0-Sample_19_Rosmarinus_21.188_7.631_0.737.jpeg,Rosmarinus officinalis
+659,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-1-Sample_58_Vaccinium_myrtillus_0607211215_0_26.680_11.569_5.256.jpeg,Erica.m
+660,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-4-Sample_71_Lavanda_Espliego_2110210859_0_10.202_0.666_5.413.jpeg,Lavandula
+661,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Rosmarinus officinalis/Rosmarinus officinalis-0-Sample_19_Rosmarinus_0803211050_0_53.856_6.712_0.853.jpeg,Rosmarinus officinalis
+662,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-0-Sample_47_Tilia_0206211409_0_-3.939_-2.806_0.674.jpeg,Tilia
+663,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-3-Sample_71_Lavanda_Espliego_1810211332_0_7.609_3.131_5.507.jpeg,Lavandula
+664,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-10-Sample_65_Castanea_1309211514_0_44.234_-2.904_5.331.jpeg,Eucalyptus sp.
+665,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_22_imported_Ana_15.438596_8.214286_4.446777.jpeg,Helianthus annuus
+666,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_2906211652_0_5.859_-0.900_5.172.jpeg,Erica.m
+667,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Citrus sp/Citrus sp-1-Sample_67_Citrus_2809211749_0_8.726_11.871_5.517.jpeg,Citrus sp
+668,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_2906211221_0_29.111_-3.968_5.270.jpeg,Erica.m
+669,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_15_Girasol (199).jpg,Helianthus annuus
+670,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Citrus sp/Citrus sp-0-Sample_67_Citrus_2909210930_0_6.167_9.583_5.526.jpeg,Citrus sp
+671,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-1-Sample_3_Capture_500.bmp,Eucalyptus sp.
+672,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-1-Sample_21_Rapseed_1105211320_0.352941_0.000000_0.785000.jpeg,Brassica
+673,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_35_Heliantus_test_df8_0_38.087719_0.000000_4.602157.jpeg,Helianthus annuus
+674,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-1-Sample_72_Arbutus_Erica_0911211048_0_3.286_10.584_5.464.jpeg,Erica.m
+675,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-0-Sample_67_Citrus_0410211026_0_7.844_1.867_5.384.jpeg,Cistus sp
+676,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-0-Sample_49_Tilia_Flor_3105211737_24.000000_4.588235_4.719340.jpeg,Tilia
+677,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-1-Sample_22_imported_Ana_8.070175_5.714286_4.451253.jpeg,Helianthus annuus
+678,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Rosmarinus officinalis/Rosmarinus officinalis-0-Sample_19_Rosmarinus_29.266_-3.031_0.778.jpeg,Rosmarinus officinalis
+679,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-1-Sample_47_Tilia_0706211408_0_-0.682_4.975_0.749.jpeg,Tilia
+680,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-0-Sample_21_Rapseed_5.980_1.619_0.755.jpeg,Brassica
+681,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-8-Sample_66_Echium_Lotus_Castanea_Euc_2109211641_0_-3.634_-4.894_5.157.jpeg,Eucalyptus sp.
+682,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-1-Sample_62_Thymus_0_27.649123_0.000000_4.990141.jpeg,Cistus sp
+683,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-0-Sample_71_Lavanda_Espliego_2610211514_0_22.576_0.112_5.518.jpeg,Lavandula
+684,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-1-Sample_43_Calluna_1905211011_0_18.981_5.812_0.854.jpeg,Erica.m
+685,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-0-Sample_71_Lavanda_Espliego_2110210936_0_15.299_12.588_5.494.jpeg,Lavandula
+686,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_64_Erica.t_Calluna_0109211225_0_13.378_6.679_5.209.jpeg,Erica.m
+687,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_15_giras (655).jpeg,Helianthus annuus
+688,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-1-Sample_72_Arbutus_Erica_0511211237_0_5.784_12.068_5.451.jpeg,Erica.m
+689,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-1-Sample_21_Rapseed_54.537_-0.306_0.895.jpeg,Brassica
+690,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-0-Sample_71_Lavanda_Espliego_2110210919_0_43.454_0.777_5.568.jpeg,Lavandula
+691,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_22_imported_Ana_040320211009_Capture_55.jpg,Helianthus annuus
+692,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-0-Sample_3_Capture_139_2.bmp,Eucalyptus sp.
+693,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-0-Sample_71_Lavanda_Espliego_2110211005_0_6.397_2.785_5.488.jpeg,Lavandula
+694,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Citrus sp/Citrus sp-0-Sample_61_Olea_Brassica_Salix_0_42.385965_1.058824_3.823882.jpeg,Citrus sp
+695,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-3-Sample_71_Lavanda_Espliego_1810211316_0_39.900_-0.550_5.527.jpeg,Lavandula
+696,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-1-Sample_58_Vaccinium_myrtillus_0607211229_0_37.531_13.604_5.272.jpeg,Erica.m
+697,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-2-Sample_21_Rapseed_28.117_7.594_0.790.jpeg,Brassica
+698,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-0-Sample_3_Capture_164.bmp,Eucalyptus sp.
+699,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Citrus sp/Citrus sp-1-Sample_67_Citrus_0410211621_0_36.563_-4.667_0.005.jpeg,Citrus sp
+700,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-2-Sample_21_Rapseed_10.932_5.719_0.748.jpeg,Brassica
+701,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Citrus sp/Citrus sp-0-Sample_67_Citrus_0410211614_0_13.424_-5.136_-0.029.jpeg,Citrus sp
+702,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Citrus sp/Citrus sp-0-Sample_67_Citrus_2909211326_0_32.607_3.135_5.537.jpeg,Citrus sp
+703,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-0-Sample_49_Tilia_Flor_3105211737_20.823529_3.529412_4.718123.jpeg,Tilia
+704,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-2-Sample_3_Capture_176.bmp,Eucalyptus sp.
+705,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_22_imported_Ana_090320210921_Capture_31.jpg,Helianthus annuus
+706,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-0-Sample_47_Tilia_0706211339_0_44.228_2.794_1.000.jpeg,Tilia
+707,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_64_Erica.t_Calluna_0109211246_0_24.213_12.179_5.251.jpeg,Erica.m
+708,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_47_Tilia_0_16.421053_2.823529_4.634378.jpeg,Helianthus annuus
+709,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-2-Sample_3_Capture_107.bmp,Eucalyptus sp.
+710,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-0-Sample_21_Rapseed_1105211748_9.882353_4.941176_0.833709.jpeg,Brassica
+711,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-3-Sample_49_Tilia_Flor_3105211737_6.000000_1.411765_4.673043.jpeg,Tilia
+712,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-0-Sample_23_Euc_Ech_Coro_26.834_0.369_0.795.jpeg,Eucalyptus sp.
+713,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_64_Erica.t_Calluna_0709210828_0_40.585_-3.183_5.229.jpeg,Erica.m
+714,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_2106211540_0_42.400_5.409_0.811.jpeg,Erica.m
+715,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-1-Sample_15_giras (570).jpeg,Helianthus annuus
+716,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-1-Sample_72_Arbutus_Erica_2710211309_0_41.735_10.937_5.558.jpeg,Lavandula
+717,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Citrus sp/Citrus sp-0-Sample_67_Citrus_2909211529_0_26.172_-1.651_5.525.jpeg,Citrus sp
+718,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-2-Sample_21_Rapseed_50.240_11.700_0.809.jpeg,Brassica
+719,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-0-Sample_49_Tilia_Flor_3105211737_6.000000_0.352941_4.674268.jpeg,Tilia
+720,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-4-Sample_79_UC_0401220937_0_43.277_-2.849_5.295.jpeg,Brassica
+721,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_15_Girasol (188).jpg,Helianthus annuus
+722,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-6-Sample_66_Echium_Lotus_Castanea_Euc_2109211223_0_43.780_3.198_5.331.jpeg,Eucalyptus sp.
+723,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-0-Sample_72_Arbutus_Erica_2810211614_0_19.188_4.753_5.483.jpeg,Erica.m
+724,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-12-Sample_66_Echium_Lotus_Castanea_Euc_2109211638_0_-7.618_3.909_5.162.jpeg,Eucalyptus sp.
+725,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-0-Sample_21_Rapseed_54.537_-0.306_0.895.jpeg,Brassica
+726,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Rosmarinus officinalis/Rosmarinus officinalis-0-Sample_19_Rosmarinus_Rosmarinus_293.jpeg,Rosmarinus officinalis
+727,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cardus/Cardus-0-Sample_67_Citrus_0410211056_0_11.210_9.134_5.323.jpeg,Cardus
+728,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_2106211551_0_33.815_4.259_0.798.jpeg,Erica.m
+729,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-0-Sample_68_Persea_0510211121_0_47.0440_3.3990_5.0650.jpeg,Cistus sp
+730,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-0-Sample_49_Tilia_Flor_3105211737_22.941176_9.882353_4.730787.jpeg,Tilia
+731,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-0-Sample_21_Rapseed_33.924_1.319_0.715.jpeg,Brassica
+732,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-0-Sample_56_BrassicaHoney_Salix_Quercus_1606211334_0_29.947_7.003_0.741.jpeg,Brassica
+733,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_43_Calluna_1905210927_0_22.281_0.878_0.910.jpeg,Erica.m
+734,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-1-Sample_67_Citrus_2809211750_0_17.444_11.986_5.527.jpeg,Helianthus annuus
+735,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_0607211054_0_9.761_4.385_5.240.jpeg,Erica.m
+736,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-1-Sample_61_Olea_Brassica_Salix_2007211339_0_25.306_1.685_5.176.jpeg,Brassica
+737,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_22_imported_Ana_0803211407_18.352941_4.235294_0.667196.jpeg,Helianthus annuus
+738,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Pinus/Pinus-2-Sample_77_Pinus_Poaceae_2112211324_0_19.467_6.199_5.454.jpeg,Pinus
+739,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-2-Sample_58_Vaccinium_myrtillus_0607211212_0_45.601_10.770_5.310.jpeg,Erica.m
+740,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-1-Sample_66_Echium_Lotus_Castanea_Euc_2109210928_0_42.125_-1.517_5.285.jpeg,Eucalyptus sp.
+741,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-0-Sample_70_Cantueso_2010211555_0_7.625_12.335_5.647.jpeg,Lavandula
+742,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-3-Sample_62_Thymus_0_32.561404_0.000000_4.991192.jpeg,Cistus sp
+743,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-4-Sample_66_Echium_Lotus_Castanea_Euc_2109211629_0_-1.119_6.642_5.146.jpeg,Eucalyptus sp.
+744,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-2-Sample_58_Vaccinium_myrtillus_0607210918_0_13.661_-3.049_5.115.jpeg,Erica.m
+745,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-0-Sample_70_Cantueso_2010211653_0_15.627_4.768_5.649.jpeg,Lavandula
+746,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Rosmarinus officinalis/Rosmarinus officinalis-0-Sample_19_Rosmarinus_33.790_-0.531_0.760.jpeg,Rosmarinus officinalis
+747,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-1-Sample_56_BrassicaHoney_Salix_Quercus_1606211624_0_17.843_8.500_0.624.jpeg,Brassica
+748,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cardus/Cardus-1-Sample_68_Persea_0410211009_0_25.0532_0.6025_4.7276_3.jpeg,Cardus
+749,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-0-Sample_53_Tilia_honey_3105211737_22.588235_6.352941_4.727131_2.jpeg,Tilia
+750,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Rosmarinus officinalis/Rosmarinus officinalis-0-Sample_19_Rosmarinus_0803211003_0_41.258_4.231_0.763.jpeg,Rosmarinus officinalis
+751,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Pinus/Pinus-0-Sample_77_Pinus_Poaceae_2112211254_0_38.714_2.083_5.480.jpeg,Pinus
+752,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-0-Sample_47_Tilia_0706211258_0_-2.198_-0.013_0.843.jpeg,Tilia
+753,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_0607211216_0_23.214_11.618_5.245.jpeg,Erica.m
+754,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-1-Sample_70_Cantueso_2010211657_0_2.741_3.585_5.658.jpeg,Lavandula
+755,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Taraxacum/Taraxacum-0-Sample_17_sunflower_0709211333_0_10.712_4.068_5.198.jpeg,Taraxacum
+756,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_17_sunflower_0709211341_0_18.295_6.802_5.206.jpeg,Helianthus annuus
+757,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_0607211339_0_45.701_5.552_5.264.jpeg,Erica.m
+758,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-1-Sample_74_Ceratonia_2611211244_0_41.176_2.369_-0.016.jpeg,Erica.m
+759,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-1-Sample_49_Tilia_Flor_3105211737_5.294118_2.470588_4.668440.jpeg,Tilia
+760,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Pinus/Pinus-1-Sample_77_Pinus_Poaceae_2112211334_0_-4.000_7.259_5.468.jpeg,Pinus
+761,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-2-Sample_66_Echium_Lotus_Castanea_Euc_2109210926_0_49.145_-1.718_5.277.jpeg,Eucalyptus sp.
+762,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-5-Sample_21_Rapseed_54.537_-0.306_0.892.jpeg,Brassica
+763,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-0-Sample_71_Lavanda_Espliego_2810211113_0_44.892_0.599_5.534.jpeg,Lavandula
+764,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_17_sunflower_0_20.280702_0.705882_4.598641.jpeg,Helianthus annuus
+765,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_47_Tilia_0_11.859649_0.000000_4.616895.jpeg,Helianthus annuus
+766,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Taraxacum/Taraxacum-1-Sample_17_sunflower_0709211313_0_15.813_-0.402_5.189.jpeg,Taraxacum
+767,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-1-Sample_53_Tilia_honey_3105211737_24.000000_7.058824_4.730764_2.jpeg,Tilia
+768,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Pinus/Pinus-1-Sample_77_Pinus_Poaceae_2112211317_0_39.372_4.407_5.525.jpeg,Pinus
+769,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Citrus sp/Citrus sp-0-Sample_61_Olea_Brassica_Salix_0_18.438596_3.176471_3.834564.jpeg,Citrus sp
+770,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_2106211615_0_17.988_-2.150_0.782.jpeg,Erica.m
+771,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-1-Sample_23_Euc_Ech_Coro_29.435_0.256_0.796.jpeg,Eucalyptus sp.
+772,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Pinus/Pinus-2-Sample_77_Pinus_Poaceae_2112211249_0_52.187_0.417_5.593.jpeg,Pinus
+773,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_2906211214_0_14.991_-4.351_5.267.jpeg,Erica.m
+774,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Rosmarinus officinalis/Rosmarinus officinalis-0-Sample_19_Rosmarinus_46.522_7.306_0.784.jpeg,Rosmarinus officinalis
+775,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cardus/Cardus-1-Sample_62_Thymus_0709211156_0_13.227_4.184_5.195.jpeg,Cardus
+776,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-0-Sample_21_Rapseed_24.706_-2.488_0.755.jpeg,Brassica
+777,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-0-Sample_3_Capture_36.bmp,Eucalyptus sp.
+778,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-1-Sample_3_Capture_36.bmp,Eucalyptus sp.
+779,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-0-Sample_21_Rapseed_0_25.192982_0.705882_4.893992.jpeg,Brassica
+780,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-1-Sample_71_Lavanda_Espliego_2110210858_0_8.684_0.599_5.431.jpeg,Lavandula
+781,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Taraxacum/Taraxacum-0-Sample_46_Taraxacum_3003211226_28.588235_6.000000_0.815000.jpeg,Taraxacum
+782,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Rosmarinus officinalis/Rosmarinus officinalis-0-Sample_19_Rosmarinus_46.018_4.519_0.778.jpeg,Rosmarinus officinalis
+783,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-3-Sample_72_Arbutus_Erica_0311210949_0_18.487_2.599_5.475.jpeg,Erica.m
+784,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-0-Sample_56_BrassicaHoney_Salix_Quercus_1606211308_0_36.003_-0.944_0.760.jpeg,Brassica
+785,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_2906211647_0_30.498_-1.116_5.202.jpeg,Erica.m
+786,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_2106211647_0_25.572_4.194_0.793.jpeg,Erica.m
+787,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cardus/Cardus-2-Sample_19_Rosmarinus_6.630_8.231_0.719.jpeg,Cardus
+788,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Citrus sp/Citrus sp-0-Sample_67_Citrus_2909211307_0_18.871_5.835_5.519.jpeg,Citrus sp
+789,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-0-Sample_23_Euc_Ech_Coro_12.954_-4.175_0.792.jpeg,Eucalyptus sp.
+790,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-2-Sample_21_Rapseed_33.924_1.319_0.718.jpeg,Brassica
+791,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-0-Sample_71_Lavanda_Espliego_2110210907_0_32.590_0.833_5.483.jpeg,Lavandula
+792,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Citrus sp/Citrus sp-0-Sample_67_Citrus_0410211015_0_1.775_-0.651_5.326.jpeg,Citrus sp
+793,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cardus/Cardus-0-Sample_44_Cardus_1503211337_0.000000_1.764706_0.667942.jpeg,Cardus
+794,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-0-Sample_70_Cantueso_2110211624_0_26.166_-5.716_5.511.jpeg,Lavandula
+795,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-0-Sample_3_Capture_275_2.bmp,Eucalyptus sp.
+796,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-12-Sample_65_Castanea_1609211645_0_34.152_-0.833_5.164.jpeg,Eucalyptus sp.
+797,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-0-Sample_21_Rapseed_0_28.245614_1.058824_0.750751.jpeg,Brassica
+798,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_43_Calluna_1905210812_0_8.579_-2.897_0.892.jpeg,Erica.m
+799,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-1-Sample_56_BrassicaHoney_Salix_Quercus_1606211333_0_30.096_8.562_0.732.jpeg,Brassica
+800,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-1-Sample_74_Ceratonia_0312211024_0_4.239_-1.116_5.531.jpeg,Erica.m
+801,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_15_giras (435).jpeg,Helianthus annuus
+802,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_0607211209_0_24.512_10.785_5.249.jpeg,Erica.m
+803,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Pinus/Pinus-1-Sample_77_Pinus_Poaceae_2112211344_0_51.261_8.475_5.605.jpeg,Pinus
+804,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-0-Sample_72_Arbutus_Erica_1211211230_0_23.821_9.985_5.486.jpeg,Erica.m
+805,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cardus/Cardus-1-Sample_17_sunflower_0709211348_0_30.294_9.717_5.209.jpeg,Cardus
+806,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-7-Sample_65_Castanea_1309211525_0_15.113_-2.696_5.145.jpeg,Eucalyptus sp.
+807,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-1-Sample_21_Rapseed_18.449_-5.381_0.702.jpeg,Brassica
+808,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-1-Sample_72_Arbutus_Erica_0911211244_0_32.776_0.818_5.495.jpeg,Erica.m
+809,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-0-Sample_49_Tilia_Flor_3105211737_24.000000_10.588235_4.722110.jpeg,Tilia
+810,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Taraxacum/Taraxacum-0-Sample_46_Taraxacum_3003211226_16.941176_8.117647_0.810000.jpeg,Taraxacum
+811,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-4-Sample_72_Arbutus_Erica_0311211549_0_24.665_-1.026_5.455.jpeg,Erica.m
+812,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Taraxacum/Taraxacum-0-Sample_46_Taraxacum_3003211226_2.470588_10.588235_0.813319.jpeg,Taraxacum
+813,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-0-Sample_56_BrassicaHoney_Salix_Quercus_1606211358_0_12.032_9.487_0.663.jpeg,Brassica
+814,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-1-Sample_71_Lavanda_Espliego_1810211310_0_28.381_-1.052_5.495.jpeg,Lavandula
+815,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-1-Sample_61_Olea_Brassica_Salix_2007211337_0_12.952_1.651_5.146.jpeg,Brassica
+816,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-0-Sample_70_Cantueso_2010211631_0_34.497_8.486_5.666.jpeg,Lavandula
+817,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-4-Sample_71_Lavanda_Espliego_1810211307_0_18.445_-1.618_5.471.jpeg,Lavandula
+818,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cardus/Cardus-3-Sample_62_Thymus_0709211206_0_40.700_0.785_5.231.jpeg,Cardus
+819,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Citrus sp/Citrus sp-1-Sample_62_Thymus_0_12.298246_0.000000_4.868281.jpeg,Citrus sp
+820,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-0-Sample_71_Lavanda_Espliego_2110211154_0_22.984_8.970_5.501.jpeg,Lavandula
+821,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-2-Sample_3_Capture_157.bmp,Eucalyptus sp.
+822,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-0-Sample_21_Rapseed_1105211320_1.764706_0.352941_0.785302.jpeg,Brassica
+823,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-1-Sample_73_Malus_0311211136_0_11.902_1.938_5.473.jpeg,Cistus sp
+824,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Pinus/Pinus-0-Sample_77_Pinus_Poaceae_2112211326_0_9.059_6.274_5.437.jpeg,Pinus
+825,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-3-Sample_21_Rapseed_0_14.736842_0.352941_0.728205_2.jpeg,Brassica
+826,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Rosmarinus officinalis/Rosmarinus officinalis-0-Sample_19_Rosmarinus_25.342_2.337_0.794.jpeg,Rosmarinus officinalis
+827,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-1-Sample_21_Rapseed_24.394_0.362_0.690.jpeg,Brassica
+828,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-2-Sample_61_Olea_Brassica_Salix_0_15.368421_1.058824_4.738038.jpeg,Eucalyptus sp.
+829,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-2-Sample_21_Rapseed_0_14.122807_0.000000_0.726582.jpeg,Brassica
+830,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-0-Sample_21_Rapseed_32.142_11.125_0.788.jpeg,Brassica
+831,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-1-Sample_21_Rapseed_42.576_11.594_0.800.jpeg,Brassica
+832,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Rosmarinus officinalis/Rosmarinus officinalis-1-Sample_19_Rosmarinus_34.632_-0.300_0.732.jpeg,Rosmarinus officinalis
+833,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-0-Sample_21_Rapseed_33.737_-4.838_0.763.jpeg,Brassica
+834,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-0-Sample_21_Rapseed_55.566_-5.869_0.877.jpeg,Brassica
+835,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Taraxacum/Taraxacum-1-Sample_17_sunflower_0709211356_0_14.390_11.454_5.219.jpeg,Taraxacum
+836,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Pinus/Pinus-1-Sample_77_Pinus_Poaceae_2112211238_0_6.049_0.108_5.458.jpeg,Pinus
+837,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_64_Erica.t_Calluna_0709210852_0_14.929_6.002_5.147.jpeg,Erica.m
+838,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-2-Sample_70_Cantueso_2010211632_0_29.979_8.367_5.662.jpeg,Lavandula
+839,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-2-Sample_21_Rapseed_11.952_12.887_0.757.jpeg,Brassica
+840,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Taraxacum/Taraxacum-0-Sample_46_Taraxacum_3003211226_19.764706_11.294118_0.806719.jpeg,Taraxacum
+841,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cardus/Cardus-1-Sample_62_Thymus_0709211120_0_43.700_6.318_5.239.jpeg,Cardus
+842,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_64_Erica.t_Calluna_0109211726_0_20.324_7.282_5.249.jpeg,Erica.m
+843,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-1-Sample_62_Thymus_0709211136_0_36.950_10.803_5.223.jpeg,Cistus sp
+844,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-2-Sample_21_Rapseed_44.700_7.812_0.798.jpeg,Brassica
+845,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-3-Sample_21_Rapseed_22.996_0.344_0.773.jpeg,Brassica
+846,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-2-Sample_72_Arbutus_Erica_0911211315_0_38.960_10.260_5.520.jpeg,Erica.m
+847,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Rosmarinus officinalis/Rosmarinus officinalis-0-Sample_19_Rosmarinus_28.424_8.262_0.787.jpeg,Rosmarinus officinalis
+848,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-0-Sample_23_Euc_Ech_Coro_14.771_0.256_0.793.jpeg,Eucalyptus sp.
+849,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-0-Sample_72_Arbutus_Erica_0911211345_0_34.161_5.340_5.515.jpeg,Erica.m
+850,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Pinus/Pinus-0-Sample_77_Pinus_Poaceae_2112211338_0_15.199_7.609_5.483.jpeg,Pinus
+851,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-0-Sample_72_Arbutus_Erica_2810211603_0_46.960_3.552_5.525.jpeg,Erica.m
+852,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-3-Sample_49_Tilia_Flor_3105211737_23.647059_1.058824_4.725319.jpeg,Tilia
+853,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-10-Sample_66_Echium_Lotus_Castanea_Euc_2109211227_0_36.862_3.198_5.211.jpeg,Eucalyptus sp.
+854,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-0-Sample_47_Tilia_0706211350_0_3.587_3.194_0.739.jpeg,Tilia
+855,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-4-Sample_62_Thymus_0_26.421053_0.352941_4.838888.jpeg,Cistus sp
+856,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-0-Sample_61_Olea_Brassica_Salix_0_25.807018_0.000000_4.753055.jpeg,Cistus sp
+857,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-2-Sample_72_Arbutus_Erica_1911211327_0_14.729_7.389_5.446.jpeg,Erica.m
+858,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-1-Sample_43_Calluna_1405211332_0_15.721_5.009_0.831.jpeg,Erica.m
+859,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-2-Sample_31_Thymus_Honey_3103211545_0_7.503_0.931_0.825.jpeg,Lavandula
+860,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-2-Sample_21_Rapseed_44.847_-5.300_0.769.jpeg,Brassica
+861,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-0-Sample_56_BrassicaHoney_Salix_Quercus_1606211322_0_36.137_5.228_0.796.jpeg,Brassica
+862,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-0-Sample_70_Cantueso_2610211552_0_29.410_3.864_5.508.jpeg,Lavandula
+863,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Citrus sp/Citrus sp-0-Sample_60_Ceratonia_Cyrpus_1207211620_0_49.927_4.701_5.306.jpeg,Citrus sp
+864,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-0-Sample_21_Rapseed_53.852_11.600_0.936.jpeg,Brassica
+865,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Erica.m-1-Sample_72_Arbutus_Erica_0911211119_0_33.877_10.420_5.468.jpeg,Erica.m
+866,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-0-Sample_61_Olea_Brassica_Salix_0_11.070175_5.647059_3.845523.jpeg,Cistus sp
+867,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_64_Erica.t_Calluna_0109211557_0_12.221_-4.537_5.185.jpeg,Erica.m
+868,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_0607211048_0_23.664_3.466_5.251.jpeg,Erica.m
+869,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cardus/Cardus-0-Sample_68_Persea_0410210943_0_37.5421_0.0818_4.6226.jpeg,Cardus
+870,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-1-Sample_21_Rapseed_21.036_7.675_0.771.jpeg,Brassica
+871,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-0-Sample_70_Cantueso_1410211638_0_42.105_-1.941_5.563.jpeg,Lavandula
+872,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Rosmarinus officinalis/Rosmarinus officinalis-0-Sample_72_Arbutus_Erica_0511211131_0_19.392_4.399_5.485.jpeg,Rosmarinus officinalis
+873,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-1-Sample_64_Erica.t_Calluna_0209211013_0_35.641_5.162_5.275.jpeg,Erica.m
+874,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-3-Sample_47_Tilia_0706211347_0_3.702_2.209_0.728.jpeg,Tilia
+875,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-0-Sample_70_Cantueso_2010211530_0_42.840_12.718_5.738.jpeg,Lavandula
+876,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-2-Sample_73_Malus_0311211121_0_40.591_7.821_5.506.jpeg,Cistus sp
+877,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-0-Sample_52_Brassica_0_39.929825_0.352941_4.653491.jpeg,Brassica
+878,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_0607211110_0_32.215_6.419_5.259.jpeg,Erica.m
+879,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-1-Sample_21_Rapseed_28.762_11.669_0.782.jpeg,Brassica
+880,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-2-Sample_66_Echium_Lotus_Castanea_Euc_2109211057_0_-3.769_1.082_5.228.jpeg,Eucalyptus sp.
+881,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-1-Sample_67_Citrus_2909211453_0_13.652_2.466_5.518.jpeg,Cistus sp
+882,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-2-Sample_72_Arbutus_Erica_2311211028_0_8.150_0.777_9.685.jpeg,Cistus sp
+883,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Cistus sp/Cistus sp-4-Sample_62_Thymus_0_34.403509_0.000000_4.817782.jpeg,Cistus sp
+884,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Helianthus annuus/Helianthus annuus-0-Sample_15_Girasol (169).jpg,Helianthus annuus
+885,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-22-Sample_66_Echium_Lotus_Castanea_Euc_2109211231_0_20.858_3.313_5.165.jpeg,Eucalyptus sp.
+886,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_2906211309_0_33.013_6.620_5.271.jpeg,Erica.m
+887,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-2-Sample_3_Capture_152_2.bmp,Eucalyptus sp.
+888,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Taraxacum/Taraxacum-1-Sample_19_Rosmarinus_38.764_10.187_0.776.jpeg,Taraxacum
+889,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Lavandula/Lavandula-4-Sample_71_Lavanda_Espliego_1810211337_0_8.660_3.131_5.509.jpeg,Lavandula
+890,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_2106211359_0_30.697_6.825_0.835.jpeg,Erica.m
+891,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-0-Sample_21_Rapseed_31.225_8.237_0.789.jpeg,Brassica
+892,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Erica.m/Vaccinium_m-0-Sample_58_Vaccinium_myrtillus_0607210908_0_18.146_-4.500_5.166.jpeg,Erica.m
+893,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Eucalyptus sp./Eucalyptus sp.-2-Sample_3_Capture_505.bmp,Eucalyptus sp.
+894,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Tilia/Tilia-1-Sample_47_Tilia_0706211616_0_-4.367_7.709_0.013.jpeg,Tilia
+895,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Brassica/Brassica-0-Sample_21_Rapseed_36.444_11.694_0.785.jpeg,Brassica
+896,/mnt/gpid08/datasets/remote_sensing/tmp_from_gpid07/honey/datasets/Pinus/Pinus-1-Sample_77_Pinus_Poaceae_2112211249_0_53.120_0.524_5.595.jpeg,Pinus
