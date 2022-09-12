@@ -1,0 +1,5 @@
+lightning_logs/
+wandb/
+*.png
+src/logs/
+src/__pycache__/
