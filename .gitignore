@@ -4,3 +4,4 @@ wandb/
 src/logs/
 src/__pycache__/
 .ipynb_checkpoints/
+nbs/lightning_logs/
